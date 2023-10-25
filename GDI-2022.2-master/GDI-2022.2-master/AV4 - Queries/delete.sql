@@ -1,0 +1,1 @@
+DELETE EVENTO WHERE NOME = 'Fuga da Galinha';

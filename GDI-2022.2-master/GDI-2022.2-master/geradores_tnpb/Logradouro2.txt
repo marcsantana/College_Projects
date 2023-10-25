@@ -1,0 +1,1000 @@
+26691389030;41635160;Rua Desembargador Mármore Neto;Salvador;Bahia;BA
+70454569202;20941210;Avenida do Alípio;Rio de Janeiro;Rio de Janeiro;RJ
+95818319035;04181120;Rua Araci;São Paulo;São Paulo;SP
+62176845622;54774195;Rua Dom Basílio;Camaragibe;Pernambuco;PE
+42036102289;17035070;Rua Natal Fornazari;Bauru;São Paulo;SP
+20263536813;06709660;Rua Áries;Cotia;São Paulo;SP
+75254503671;28899276;Rua Quarenta e Quatro;Rio das Ostras;Rio de Janeiro;RJ
+86573702618;06851360;Rua José Antônio da Silva Júnior;Itapecerica da Serra;São Paulo;SP
+99306055551;59073068;Rua Diderot Ribeiro;Natal;Rio Grande do Norte;RN
+71557759274;79112190;Rua Ministro José Linhares;Campo Grande;Mato Grosso do Sul;MS
+07433202181;70760716;Quadra SHCGN 712 Bloco P;Brasília;Distrito Federal;DF
+60323684225;29702070;Rua Virgílio Gomes Barreto;Colatina;Espírito Santo;ES
+28074822036;54130230;Rua Sumo;Jaboatão dos Guararapes;Pernambuco;PE
+56693151237;35703195;Rua Gerson Belém;Sete Lagoas;Minas Gerais;MG
+39544410782;72010120;Quadra C 12;Brasília;Distrito Federal;DF
+86886277229;35171025;Rua Tantaro;Coronel Fabriciano;Minas Gerais;MG
+13071520702;79102171;Rua Recanto;Campo Grande;Mato Grosso do Sul;MS
+45152877749;86065064;Rua Takeo Hiraiwa;Londrina;Paraná;PR
+04705284698;85817550;Rua Serra Grande;Cascavel;Paraná;PR
+08635392399;74356667;Rua RC 16 A;Goiânia;Goiás;GO
+63606954314;79072265;Rua Carurú;Campo Grande;Mato Grosso do Sul;MS
+47172495053;72917260;Quadra Quadra 55;Águas Lindas de Goiás;Goiás;GO
+14794413711;13092450;Rua Bernardino Carvalho Grade;Campinas;São Paulo;SP
+80570933249;01251000;Rua Cardoso de Almeida;São Paulo;São Paulo;SP
+94903713133;67113670;Travessa E;Ananindeua;Pará;PA
+23434770185;59156209;Rua Caminho Beira-Rio;Parnamirim;Rio Grande do Norte;RN
+72275394632;41250282;Travessa Djalma Sanches;Salvador;Bahia;BA
+33060454666;70200695;Quadra SGAS 609/610;Brasília;Distrito Federal;DF
+09203731628;89041550;Rua Carlos Ritter;Blumenau;Santa Catarina;SC
+25144002917;71551516;Quadra Quadra 5 Conjunto 4;Brasília;Distrito Federal;DF
+42455527060;79117010;Avenida Tamandaré;Campo Grande;Mato Grosso do Sul;MS
+92711192025;97030670;Rua Bela Vista;Santa Maria;Rio Grande do Sul;RS
+39889960204;52191111;Rua Urandi;Recife;Pernambuco;PE
+22277981641;79621323;Rua K;Três Lagoas;Mato Grosso do Sul;MS
+24579534773;74483150;Rua Campos Sales;Goiânia;Goiás;GO
+18973798224;58416170;Rua Almirante Barroso;Campina Grande;Paraíba;PB
+67019167898;77829010;Quadra 5;Araguaína;Tocantins;TO
+51783180768;90245290;Rua J;Porto Alegre;Rio Grande do Sul;RS
+60582540865;72821480;Quadra Quadra 323;Luziânia;Goiás;GO
+59133200489;21932867;Travessa Opala;Rio de Janeiro;Rio de Janeiro;RJ
+31918725851;65058510;Avenida Brasil;São Luís;Maranhão;MA
+83092399348;39406160;Rua A-3;Montes Claros;Minas Gerais;MG
+24406188080;29149730;Rua Teresinha Silva Simões;Cariacica;Espírito Santo;ES
+66765408452;88061065;Travessa Olavo Hermógenes Coelho;Florianópolis;Santa Catarina;SC
+08397840002;71600770;Quadra SHIS QI 15 Chácaras 33 a 40;Brasília;Distrito Federal;DF
+31115639803;31160550;Rua Professor Patrocínio Filho;Belo Horizonte;Minas Gerais;MG
+07882972088;23535340;Rua Jamil Dagli;Rio de Janeiro;Rio de Janeiro;RJ
+77037589109;83070070;Rua Maria Antônia Chinda;São José dos Pinhais;Paraná;PR
+87657794032;78115722;Rua Vicente de Barros;Várzea Grande;Mato Grosso;MT
+35975729643;81770772;Praça Rudolfo Miguel Hansel;Curitiba;Paraná;PR
+21970254860;88371415;Rua Alfredo Ponciano;Navegantes;Santa Catarina;SC
+56832684791;37036205;Rua João Dandi dos Santos;Varginha;Minas Gerais;MG
+92501203799;12060060;Rua Campos de Jordão;Taubaté;São Paulo;SP
+00133050959;76804412;Rua Alexandre Guimarães;Porto Velho;Rondônia;RO
+64756709651;52291170;Subida dos Gonçalves;Recife;Pernambuco;PE
+40169970856;85904210;Rua Carlos Barbosa;Toledo;Paraná;PR
+92469243970;60349720;Rua N;Fortaleza;Ceará;CE
+75605238712;06820060;Rua Júlio Mesquita;Embu das Artes;São Paulo;SP
+03132895254;41214775;Rua Praia da Boa Viagem;Salvador;Bahia;BA
+27934112470;26310380;Rua Itajubá;Queimados;Rio de Janeiro;RJ
+92056429850;09250355;Rua Jonas Neto;Santo André;São Paulo;SP
+51762741125;13205180;Rua João Buscato;Jundiaí;São Paulo;SP
+68710127635;40355400;Travessa Cunha;Salvador;Bahia;BA
+26560700193;13803801;Rua Vanderley Potério;Mogi Mirim;São Paulo;SP
+06587883301;97020570;Rua das Orquídeas;Santa Maria;Rio Grande do Sul;RS
+52664556896;13212824;Rua Pássaro Preto;Jundiaí;São Paulo;SP
+29243540426;68906177;Rua Belgica;Macapá;Amapá;AP
+50601100934;21042290;Praça São Salvador;Rio de Janeiro;Rio de Janeiro;RJ
+99704534481;56503565;Rua do Campo;Arcoverde;Pernambuco;PE
+75097502306;94470520;Rua Viamópolis;Viamão;Rio Grande do Sul;RS
+38377488076;78060055;Rua São Miguel;Cuiabá;Mato Grosso;MT
+14474238663;33010474;Rua Carlos Antônio Cândido;Santa Luzia;Minas Gerais;MG
+96539102378;37701605;Travessa Otaviano Manoel da Rocha;Poços de Caldas;Minas Gerais;MG
+82091694888;89287165;Rua Edson Noriller;São Bento do Sul;Santa Catarina;SC
+48500303962;70257140;Quadra SQS 408 Bloco N;Brasília;Distrito Federal;DF
+93503455398;41338250;Caminho 02-Núcleo C;Salvador;Bahia;BA
+95904519921;14409091;Rua Antônio Herrero;Franca;São Paulo;SP
+81544546147;97576670;Rua Gaspar Edmundo Levy Saldanha;Santana do Livramento;Rio Grande do Sul;RS
+47463224784;13060755;Rua Roza Morganti Bueno;Campinas;São Paulo;SP
+79877884976;64080040;Rua Maetinga;Teresina;Piauí;PI
+61824488801;61906070;Rua Central;Maracanaú;Ceará;CE
+52911356473;25725136;Estrada do Capoeirão;Petrópolis;Rio de Janeiro;RJ
+41674003961;13044000;Rua Agnaldo Macedo;Campinas;São Paulo;SP
+12307124472;72917260;Quadra Quadra 55;Águas Lindas de Goiás;Goiás;GO
+13423802957;64005513;Rua Oito;Teresina;Piauí;PI
+79991603929;35661080;Rua Zuleika Moreira Barbosa;Pará de Minas;Minas Gerais;MG
+87342812947;09272434;Travessa Itaqui;Santo André;São Paulo;SP
+28199473617;13469425;Rua São Thiago;Americana;São Paulo;SP
+12433089646;78552337;Rua dos Aricuris;Sinop;Mato Grosso;MT
+10299526887;19803015;Rua Vivaldo Teixeira Carvalho;Assis;São Paulo;SP
+80373604239;16400513;Rua da Concórdia;Lins;São Paulo;SP
+03437228006;18412151;Rua Nagib Rodrigues de Almeida;Itapeva;São Paulo;SP
+92625340716;66075335;Travessa Vinte de Fevereiro;Belém;Pará;PA
+01636043568;69021055;Rua São Matheus;Manaus;Amazonas;AM
+85174997484;69304090;Travessa Anauá;Boa Vista;Roraima;RR
+21656228313;29025669;Escadaria Agenor Pereira Anjos;Vitória;Espírito Santo;ES
+60308378231;74375670;Rua do Ouro;Goiânia;Goiás;GO
+11241853333;65058246;Rua 4D;São Luís;Maranhão;MA
+04512807257;13635236;Rua José Luiz Franco de Oliveira;Pirassununga;São Paulo;SP
+27064242433;35701488;Praça Terezinha Lanza Gonçalves;Sete Lagoas;Minas Gerais;MG
+33697575953;21615410;Rua Sargento Geraldo Santana;Rio de Janeiro;Rio de Janeiro;RJ
+82351024593;68035730;Rua das Carmélias;Santarém;Pará;PA
+01550827060;26177320;Rua Santo Afonso;Belford Roxo;Rio de Janeiro;RJ
+27721928741;88359234;Rua DJ - 045;Brusque;Santa Catarina;SC
+27206864653;76820148;Avenida José Vieira Caúla;Porto Velho;Rondônia;RO
+60295564267;15060170;Rua Francisco Xavier Pedroso;São José do Rio Preto;São Paulo;SP
+31455629220;06716240;Rua Guarantã;Cotia;São Paulo;SP
+43851646421;27948076;Estrada Ana Nery;Macaé;Rio de Janeiro;RJ
+62199444696;95112540;Rua Antônio José Flores;Caxias do Sul;Rio Grande do Sul;RS
+24857269519;14401253;Rua Capitão Canuto de Azevedo;Franca;São Paulo;SP
+55322981957;72860582;Quadra Quadra 619;Novo Gama;Goiás;GO
+19620789115;19064460;Rua Mitoshi Mitsunaga;Presidente Prudente;São Paulo;SP
+70026625978;74810095;Rua 49;Goiânia;Goiás;GO
+69847144262;02216060;Rua Armando Paim;São Paulo;São Paulo;SP
+94227084563;25231070;Rua Cassua;Duque de Caxias;Rio de Janeiro;RJ
+87005862646;24455720;Rua Álvaro Brandão;São Gonçalo;Rio de Janeiro;RJ
+38059085793;17055802;Rua Antonio Vanini;Bauru;São Paulo;SP
+23322056046;03551060;Rua Caicó;São Paulo;São Paulo;SP
+11131234712;81460377;Rua Vital Vernize;Curitiba;Paraná;PR
+42144123150;81710330;Rua Arnaldo Gabardo;Curitiba;Paraná;PR
+40883018811;29906440;Rua José Carlos Langa;Linhares;Espírito Santo;ES
+56562296842;09625000;Rua Vinte e Quatro de Maio;São Bernardo do Campo;São Paulo;SP
+98261973292;66825193;Passagem Pedra Viva;Belém;Pará;PA
+34275739923;15706002;Rua Antonio Pelarini;Jales;São Paulo;SP
+52187067076;15997080;Avenida Tiradentes;Matão;São Paulo;SP
+84472661418;64015030;Rua Bartolomeu Vasconcelos;Teresina;Piauí;PI
+63393682397;88309470;Rua Biguaçu;Itajaí;Santa Catarina;SC
+79709760671;08473526;Travessa Cesare Zoilo;São Paulo;São Paulo;SP
+48629836624;54774125;Rua Paul Harris;Camaragibe;Pernambuco;PE
+87289536210;80040250;Rua Professor Duílio Aníbal Calderari;Curitiba;Paraná;PR
+30072221937;94828560;Rua Pedro Américo;Alvorada;Rio Grande do Sul;RS
+39975978596;02320160;Rua Tríplice Aliança;São Paulo;São Paulo;SP
+52407479623;29148346;Rua Boa Fé;Cariacica;Espírito Santo;ES
+33771740063;32235390;Rua Coronel Américo de Oliveira;Contagem;Minas Gerais;MG
+76161734929;27948076;Estrada Ana Nery;Macaé;Rio de Janeiro;RJ
+73684692788;59073126;Travessa Anápolis;Natal;Rio Grande do Norte;RN
+77580897766;35164546;Avenida Alberto Giovannini;Ipatinga;Minas Gerais;MG
+04240506625;26280020;Rua Adriano;Nova Iguaçu;Rio de Janeiro;RJ
+22323732732;54230251;Rua José Geraldo de Abreu;Jaboatão dos Guararapes;Pernambuco;PE
+88399633714;58043110;Rua Hilda Coutinho Lucena;João Pessoa;Paraíba;PB
+64015898870;89810140;Rua Ibirama;Chapecó;Santa Catarina;SC
+27967485388;24470400;Rua Luiza de Gusmão;São Gonçalo;Rio de Janeiro;RJ
+34572516905;83514150;Rua Frederico Domingos Gulin;Almirante Tamandaré;Paraná;PR
+95811260333;87035366;Rua Colômbia;Maringá;Paraná;PR
+14501027544;66823215;Vila Centro Comercial;Belém;Pará;PA
+38342330653;06851360;Rua José Antônio da Silva Júnior;Itapecerica da Serra;São Paulo;SP
+53705506131;61906070;Rua Central;Maracanaú;Ceará;CE
+69157179239;13801475;Rua Santa Maria;Mogi Mirim;São Paulo;SP
+16124382569;11030170;Rua Almirante Moraes Rego;Santos;São Paulo;SP
+30129609663;35180702;Rua Ernesto Nazareth;Timóteo;Minas Gerais;MG
+40099341183;86188440;Rua das Magnólias;Cambé;Paraná;PR
+75946874994;14092160;Rua Doutor Morais Lima;Ribeirão Preto;São Paulo;SP
+14012443304;88061065;Travessa Olavo Hermógenes Coelho;Florianópolis;Santa Catarina;SC
+88287081993;81480151;Rua João Fernando Ramon Alegre Alarcon;Curitiba;Paraná;PR
+97400055251;04844390;Rua Ana Reimberg Hemmel;São Paulo;São Paulo;SP
+66928302932;88352177;Rua SR - 016;Brusque;Santa Catarina;SC
+00201196879;17519410;Rua Sebastião Gonçalves Sobrinho;Marília;São Paulo;SP
+25378517870;13732459;Rua André Somagio;Mococa;São Paulo;SP
+89899162301;13614300;Rua Demézio Nabarreti;Leme;São Paulo;SP
+12848722171;77815290;Rua 12;Araguaína;Tocantins;TO
+10569973933;68906177;Rua Belgica;Macapá;Amapá;AP
+01060622850;74990430;Rua Wanderley Schmaltz;Aparecida de Goiânia;Goiás;GO
+53609244186;13222281;Rua Borda da Mata;Várzea Paulista;São Paulo;SP
+09026225294;18135131;Avenida Antonio Pannellini;São Roque;São Paulo;SP
+89675937915;21240470;Rua Cristiano Machado;Rio de Janeiro;Rio de Janeiro;RJ
+20242377746;85604340;Rua Juriti;Francisco Beltrão;Paraná;PR
+10521671081;05184000;Rua Antônio Cardoso Nogueira;São Paulo;São Paulo;SP
+66833408620;69084042;Rua Jordanésia;Manaus;Amazonas;AM
+58713450754;35039710;Rua D;Governador Valadares;Minas Gerais;MG
+69767576451;57051010;Rua Abelardo Cardoso;Maceió;Alagoas;AL
+61086591556;05268190;Rua Lajes Pintadas;São Paulo;São Paulo;SP
+12433994136;14408112;Rua Nelson Pires de Castro;Franca;São Paulo;SP
+11785248807;26285580;Rua Pacaembu;Nova Iguaçu;Rio de Janeiro;RJ
+18481639913;25925265;Rua Idalina Maria Barenco;Magé;Rio de Janeiro;RJ
+94392214085;57038690;Rua Henry Vicente Vieira de Paula;Maceió;Alagoas;AL
+49962592855;08773060;Rua Antônia Veiga Ruiz;Mogi das Cruzes;São Paulo;SP
+70513537969;75513564;Rua Panamá;Itumbiara;Goiás;GO
+11891039422;32675578;Avenida Imbiruçu;Betim;Minas Gerais;MG
+84266966898;57014508;Quadra 33;Maceió;Alagoas;AL
+38498792086;35059480;Rua São Lourenço;Governador Valadares;Minas Gerais;MG
+84730577411;89814095;Rua Palmeiras - D;Chapecó;Santa Catarina;SC
+45474887930;75905313;Rua 20;Rio Verde;Goiás;GO
+09344545042;60533692;Avenida Ministro Albuquerque Lima;Fortaleza;Ceará;CE
+68585265674;50791060;Rua Inajá;Recife;Pernambuco;PE
+24786493585;45656070;Rua Alípio Manoel dos Santos;Ilhéus;Bahia;BA
+61905737921;87045040;Rua Belvedere;Maringá;Paraná;PR
+85605808173;35162628;Rua F;Ipatinga;Minas Gerais;MG
+46443567919;24455475;Rua Havaí;São Gonçalo;Rio de Janeiro;RJ
+28529275162;87206112;Rua Orion;Cianorte;Paraná;PR
+44589610738;38445144;Rua Seis;Araguari;Minas Gerais;MG
+62290691200;27948076;Estrada Ana Nery;Macaé;Rio de Janeiro;RJ
+69456535384;15990460;Via Narciso Baldan;Matão;São Paulo;SP
+96664382010;71740040;Quadra SMPW Quadra 12 Conjunto 1;Brasília;Distrito Federal;DF
+91550799640;14404004;Rua Antonieta Almada Miranda;Franca;São Paulo;SP
+35895949542;07432435;Avenida Perimetral;Arujá;São Paulo;SP
+49405416180;13475175;Rua Cinco;Americana;São Paulo;SP
+02070383547;97503130;Rua Padre Anchieta;Uruguaiana;Rio Grande do Sul;RS
+28090236300;80330000;Rua Carlos Dietzsch;Curitiba;Paraná;PR
+00273766566;25233070;Rua Nossa Senhora da Conceição;Duque de Caxias;Rio de Janeiro;RJ
+48515259396;87112041;Rua Campo Grande;Sarandi;Paraná;PR
+22121745730;60862720;Rua Noêmia;Fortaleza;Ceará;CE
+31512176304;26140425;Travessa Nunes Sampaio;Belford Roxo;Rio de Janeiro;RJ
+61546427876;14403204;Rua Leontina Odette de Castro;Franca;São Paulo;SP
+91638891495;84063200;Rua O Brasil Para Cristo;Ponta Grossa;Paraná;PR
+88243319282;09971370;Praça Gilberto;Diadema;São Paulo;SP
+99579399046;38300116;Rua Valentina Carvalho Vilela;Ituiutaba;Minas Gerais;MG
+31489743582;38410637;Rua Tucuruí;Uberlândia;Minas Gerais;MG
+77392746180;17048180;Rua Orlando Stefano;Bauru;São Paulo;SP
+22705607992;58806626;Travessa José Celestino de Paula;Sousa;Paraíba;PB
+74061632766;72883331;Quadra Quadra 141;Cidade Ocidental;Goiás;GO
+17556130391;87114050;Rua José Bonifácio;Sarandi;Paraná;PR
+12207505397;14702226;Rua Geraldo Ferreira;Bebedouro;São Paulo;SP
+19588706753;56323730;Rua da Graça;Petrolina;Pernambuco;PE
+03542647469;53020520;Rua Waldemar Paulino dos Santos;Olinda;Pernambuco;PE
+78448171884;04736010;Rua Irmã Haydêe Ribeiro;São Paulo;São Paulo;SP
+16539945341;36031040;Rua José Afonso Pinheiro;Juiz de Fora;Minas Gerais;MG
+41927357636;13099008;Rua Sônia Barreto Tupynambá Freire;Campinas;São Paulo;SP
+34229592525;66073450;Alameda Professor Abelardo Leão Conduru;Belém;Pará;PA
+13048050170;90150004;Avenida Getúlio Vargas;Porto Alegre;Rio Grande do Sul;RS
+79134793072;06447070;Rua Jacareí;Barueri;São Paulo;SP
+36184935963;66815146;Rua Iêda Chaves;Belém;Pará;PA
+63190103143;58300750;Rua Carneiro;Santa Rita;Paraíba;PB
+96787115152;41340490;Caminho 07-Setor 01;Salvador;Bahia;BA
+58580135125;39402432;Rua Abelard José Tolentino;Montes Claros;Minas Gerais;MG
+52630629459;69400734;Rua Maurício da Cunha Freire;Manacapuru;Amazonas;AM
+35968616470;23831490;Rua Acácia;Itaguaí;Rio de Janeiro;RJ
+19525995072;74967480;Avenida Dona Maria Marques de Abreu;Aparecida de Goiânia;Goiás;GO
+64064523079;25907056;Rua Presidente Dutra;Magé;Rio de Janeiro;RJ
+67054404227;08526040;Rua Marcia Angélica Lopes;Ferraz de Vasconcelos;São Paulo;SP
+73799139764;88512000;Avenida Dom Pedro II;Lages;Santa Catarina;SC
+96714225053;34505410;Praça João Antero Lopes;Sabará;Minas Gerais;MG
+30207092717;17055519;Alameda Araçatuba;Bauru;São Paulo;SP
+94856517802;07152211;Viela Cerro Corá;Guarulhos;São Paulo;SP
+50231281091;08655760;Rua Carim Jorge;Suzano;São Paulo;SP
+93986025048;74825010;Alameda Alfredo Lopes de Morais;Goiânia;Goiás;GO
+06348379746;50875133;3ª Travessa Justiça e Paz;Recife;Pernambuco;PE
+00143229829;13610360;Rua Ernesto Gatto;Leme;São Paulo;SP
+08385664497;44042899;Rua Heráclito Dias de Carvalho;Feira de Santana;Bahia;BA
+33692405191;26115792;Travessa Vinte e Sete;Belford Roxo;Rio de Janeiro;RJ
+35973639894;29934738;Rua Louzival Carvalho Filho;São Mateus;Espírito Santo;ES
+49380143755;85867636;Alameda Milton Ferreira Souza;Foz do Iguaçu;Paraná;PR
+84152041910;08160440;Rua Dom Jaime Comere;São Paulo;São Paulo;SP
+42080389075;39400762;Rua Menino Jesus;Montes Claros;Minas Gerais;MG
+90642640883;29118105;Rua Floresta;Vila Velha;Espírito Santo;ES
+73638963158;13320550;Rua Thomaz Antônio Gonzaga;Salto;São Paulo;SP
+77000720631;07786770;Rua Alfredo Marcondes;Cajamar;São Paulo;SP
+00497336783;70385060;Quadra SQS 115 Bloco F;Brasília;Distrito Federal;DF
+39650856019;16207038;Rua Avelino Bertaglia;Birigüi;São Paulo;SP
+94442464716;26167450;Rua Carmela Dutra;Belford Roxo;Rio de Janeiro;RJ
+47949592153;85817370;Travessa Nicarágua;Cascavel;Paraná;PR
+44992608468;79901128;Avenida da Flora;Ponta Porã;Mato Grosso do Sul;MS
+98262325236;13049429;Rua Geraldo Vicente;Campinas;São Paulo;SP
+65350925475;25261270;Rua Carlos Maul;Duque de Caxias;Rio de Janeiro;RJ
+28985245384;77829010;Quadra 5;Araguaína;Tocantins;TO
+60667441304;33938412;Beco Santo Afonso;Ribeirão das Neves;Minas Gerais;MG
+39291515944;18213605;Rua Bento Antunes de Moraes;Itapetininga;São Paulo;SP
+98750846065;88036090;Rua Procópio Manoel Pires;Florianópolis;Santa Catarina;SC
+40106478425;23535340;Rua Jamil Dagli;Rio de Janeiro;Rio de Janeiro;RJ
+03029637840;73360407;Quadra Quadra 4 Conjunto G;Brasília;Distrito Federal;DF
+58385645704;93534020;Rua Mauá;Novo Hamburgo;Rio Grande do Sul;RS
+43063341639;23850310;Rua Amaro Faria da Fonseca;Itaguaí;Rio de Janeiro;RJ
+03366725419;35663678;Rua Cardeal;Pará de Minas;Minas Gerais;MG
+24023975936;55014837;Avenida José Florêncio Filho;Caruaru;Pernambuco;PE
+30791136040;50791060;Rua Inajá;Recife;Pernambuco;PE
+60083554575;09190720;Praça Senador Victorino Freire;Santo André;São Paulo;SP
+02883176916;85806010;Rua Kamacas;Cascavel;Paraná;PR
+54617775323;13482384;Rua Joaquim Daniel dos Santos;Limeira;São Paulo;SP
+27243984824;88815660;Rua Timbó;Criciúma;Santa Catarina;SC
+13140716041;69046700;Rua Paranatama;Manaus;Amazonas;AM
+25262248593;94430150;Rua Eduardo Traub;Viamão;Rio Grande do Sul;RS
+77881518320;39402432;Rua Abelard José Tolentino;Montes Claros;Minas Gerais;MG
+10134746112;85301030;Rua Barão do Rio Branco;Laranjeiras do Sul;Paraná;PR
+47297963317;64012336;Quadra AC;Teresina;Piauí;PI
+51103164963;65077590;Rua Vinte;São Luís;Maranhão;MA
+00502858810;54100502;2ª Rua Rui Barbosa;Jaboatão dos Guararapes;Pernambuco;PE
+71820632303;24930676;Rua Manoel Gomes Quintanilha;Maricá;Rio de Janeiro;RJ
+42917416074;66073477;Vila Doutor Virgílio de Mendonça;Belém;Pará;PA
+76712499105;14807127;Avenida Arthur Lopes de Castro;Araraquara;São Paulo;SP
+23488163341;41214560;2ª Avenida Sérgio Cardoso;Salvador;Bahia;BA
+97866463891;45824460;Rua da Integração;Eunápolis;Bahia;BA
+31896344908;29052075;Escadaria Pio XII;Vitória;Espírito Santo;ES
+05008745421;35024003;Rua Dois;Governador Valadares;Minas Gerais;MG
+95181181845;66625325;Rua T-7;Belém;Pará;PA
+66476242237;94480325;Travessa José Viamonte;Viamão;Rio Grande do Sul;RS
+81172992530;87083531;Rua Ametista;Maringá;Paraná;PR
+38407190534;87302296;Rua Araruna;Campo Mourão;Paraná;PR
+29331596947;13087553;Rua José Francisco Barbosa;Campinas;São Paulo;SP
+98617758846;89045110;Rua Minna Budag;Blumenau;Santa Catarina;SC
+97564776269;74093200;Rua 131;Goiânia;Goiás;GO
+74496539049;74944020;Rua Alagoas;Aparecida de Goiânia;Goiás;GO
+39327964726;69084042;Rua Jordanésia;Manaus;Amazonas;AM
+53597017717;76803488;Avenida Lauro Sodré;Porto Velho;Rondônia;RO
+84419781605;12229072;Rua Landulfo Caetano dos Santos;São José dos Campos;São Paulo;SP
+64927526022;89804443;Rua Damásio Flores da Cunha Filho;Chapecó;Santa Catarina;SC
+48130566236;68005370;Rua Augusto Montenegro;Santarém;Pará;PA
+20642528549;63015070;Rodovia Miguel Homem da Costa;Juazeiro do Norte;Ceará;CE
+28236312336;08473465;Travessa Zola Amaro;São Paulo;São Paulo;SP
+55676816207;83408250;Rua Galileu Galilei;Colombo;Paraná;PR
+19026428193;75090575;Rua JP 44;Anápolis;Goiás;GO
+61662100433;14710152;Rua Paulo Sérgio da Silva Pedro;Bebedouro;São Paulo;SP
+50105343702;31720500;Avenida General Carlos Guedes;Belo Horizonte;Minas Gerais;MG
+73895719277;07776435;Avenida Deovair Cruz de Oliveira;Cajamar;São Paulo;SP
+31051505675;29157412;Rua Quatorze;Cariacica;Espírito Santo;ES
+89813553869;60761191;Avenida Presidente Costa e Silva;Fortaleza;Ceará;CE
+08212614292;29027105;Rua José Rodrigues de Oliveira;Vitória;Espírito Santo;ES
+26362514643;86026100;Travessa Amazonas;Londrina;Paraná;PR
+61442735260;89215071;Rua Valmor de Villa;Joinville;Santa Catarina;SC
+44679789103;55610340;Rua Água Branca;Vitória de Santo Antão;Pernambuco;PE
+20233109575;29155623;Rua Lourival de Almeida;Cariacica;Espírito Santo;ES
+06407352317;80710120;Rua Capitão Joseph Pereira Quevedo;Curitiba;Paraná;PR
+24300251858;59088520;Rua Professor Alberto Moreira Campos;Natal;Rio Grande do Norte;RN
+20140807136;55157635;Rua José Nunes da Silva;Belo Jardim;Pernambuco;PE
+71067716605;08021227;Travessa Xavier;São Paulo;São Paulo;SP
+33405683926;20941210;Avenida do Alípio;Rio de Janeiro;Rio de Janeiro;RJ
+17767141899;27250045;Rua D;Volta Redonda;Rio de Janeiro;RJ
+07000091383;17063430;Rua Agostinho Fornetti;Bauru;São Paulo;SP
+02694558566;65064522;Rua Existente;São Luís;Maranhão;MA
+99698707134;13905467;Rua Rosário Ferrari;Amparo;São Paulo;SP
+18140525967;67146005;Quadra Cinco;Ananindeua;Pará;PA
+85277564497;74482510;Via de Acesso 6;Goiânia;Goiás;GO
+30005304309;65076641;Avenida Litorânea;São Luís;Maranhão;MA
+49705017910;84263410;Rua Seis;Telêmaco Borba;Paraná;PR
+95004113114;33939020;Rua Braúnas;Ribeirão das Neves;Minas Gerais;MG
+32045637842;95020560;Largo Fábio Formolo;Caxias do Sul;Rio Grande do Sul;RS
+33587683400;73340531;Quadra EQ 6 Área Especial 1;Brasília;Distrito Federal;DF
+69663825292;54783450;Rua Orleans;Camaragibe;Pernambuco;PE
+84014039361;14065270;Rua Elydio Pontes;Ribeirão Preto;São Paulo;SP
+32901813581;48011330;Travessa São Jorge;Alagoinhas;Bahia;BA
+96022746567;59152100;Rua Aroeira;Parnamirim;Rio Grande do Norte;RN
+68997598308;79833355;Rua José Fernandes Júnior;Dourados;Mato Grosso do Sul;MS
+66864792719;69092030;Rua Monte Buri;Manaus;Amazonas;AM
+73117911242;17527030;Rua Edgard Silva Lima;Marília;São Paulo;SP
+49542682138;16400460;Rua José Garcia de Carvalho;Lins;São Paulo;SP
+18565198365;21854152;Caminho da Figueira;Rio de Janeiro;Rio de Janeiro;RJ
+52199461290;19033480;Rua Eduardo Ramos;Presidente Prudente;São Paulo;SP
+56188507958;69095332;Beco Quaresmeira;Manaus;Amazonas;AM
+05957829086;65632144;Rua H;Timon;Maranhão;MA
+84671007720;55608273;Rua do Norte;Vitória de Santo Antão;Pernambuco;PE
+39222752853;09520440;Rua Mariano Pamplona;São Caetano do Sul;São Paulo;SP
+49944726471;71730110;Rua 1;Brasília;Distrito Federal;DF
+92172501517;88353605;Conjunto Cohab;Brusque;Santa Catarina;SC
+86525135515;84043580;Rua Vergílio Luiz Zancanaro;Ponta Grossa;Paraná;PR
+20188093431;65910755;Rua D-4;Imperatriz;Maranhão;MA
+05743440723;87062245;Rua Pioneiro João de Deus Prates;Maringá;Paraná;PR
+23559792606;69055705;Rua Professor Samuel Benchimol;Manaus;Amazonas;AM
+69311478526;12940060;Rua Major Juvenal Alvim;Atibaia;São Paulo;SP
+65913170790;05451010;Rua Pedro de Sousa Campos Filho;São Paulo;São Paulo;SP
+56097280071;44009660;Via Pedestre 7;Feira de Santana;Bahia;BA
+85924833337;21051415;Rua Pindaucu;Rio de Janeiro;Rio de Janeiro;RJ
+32291557677;94150130;Rua Taquaras;Gravataí;Rio Grande do Sul;RS
+77092790668;88708620;Rua Hilário Damiani;Tubarão;Santa Catarina;SC
+83672784837;23020640;Rua Fonseca e Silva;Rio de Janeiro;Rio de Janeiro;RJ
+09691417801;35171444;Beco Um;Coronel Fabriciano;Minas Gerais;MG
+76396534956;54589025;Rua da Novena;Cabo de Santo Agostinho;Pernambuco;PE
+97753636154;25977060;Estrada das Oliveiras;Teresópolis;Rio de Janeiro;RJ
+56233866008;22710245;Rua Macembu;Rio de Janeiro;Rio de Janeiro;RJ
+30194508265;35300243;Rua Antônio Alves;Caratinga;Minas Gerais;MG
+52034369532;15025180;Rua Paquetá;São José do Rio Preto;São Paulo;SP
+48497480578;07179333;Rua da Mina;Guarulhos;São Paulo;SP
+66525571148;13070090;Rua Sampaio Vidal;Campinas;São Paulo;SP
+30760711291;28616000;Avenida Ana Barbosa Moreira;Nova Friburgo;Rio de Janeiro;RJ
+81039908492;89806145;Rua Doutor Serafim Enoss Bertaso - E;Chapecó;Santa Catarina;SC
+46885980341;37038010;Avenida das Palmeiras;Varginha;Minas Gerais;MG
+36354295078;53610213;Rua Barbosa Lima;Igarassu;Pernambuco;PE
+55162553121;06503115;Rua Francisco Gonçalves Pinto;Santana de Parnaíba;São Paulo;SP
+09324637447;94080300;Rua Jorge Nunes;Gravataí;Rio Grande do Sul;RS
+04430432003;12942500;Rua João Serbino;Atibaia;São Paulo;SP
+54499271236;08526040;Rua Marcia Angélica Lopes;Ferraz de Vasconcelos;São Paulo;SP
+13043125498;24939270;Rua Ubatuba;Maricá;Rio de Janeiro;RJ
+26026954346;93125675;Rua Safira;São Leopoldo;Rio Grande do Sul;RS
+12821013753;45075185;Rua Um;Vitória da Conquista;Bahia;BA
+14192494134;75804333;Alameda Marechal Rondon;Jataí;Goiás;GO
+17051514952;86044312;Rua dos Tintureiros;Londrina;Paraná;PR
+00360572129;96050260;Avenida Ramon Jorge Hallal;Pelotas;Rio Grande do Sul;RS
+61244077386;02207080;Rua Carlos Alberto Luiz;São Paulo;São Paulo;SP
+65777438242;74371420;Rua MDV 9;Goiânia;Goiás;GO
+13080475957;78559234;Rua Projetada 6;Sinop;Mato Grosso;MT
+05254860736;23032776;Rua Yasmim;Rio de Janeiro;Rio de Janeiro;RJ
+14950432078;83070145;Rua José Cândido da Silva Muricy;São José dos Pinhais;Paraná;PR
+56665732788;24866000;Rua Setenta e Oito;Itaboraí;Rio de Janeiro;RJ
+50081564722;37901779;Alameda das Aroeiras;Passos;Minas Gerais;MG
+66340987934;58105440;Rua Porto Cabedelo;Cabedelo;Paraíba;PB
+21012147231;13185213;Rua Orlando Pavan;Hortolândia;São Paulo;SP
+06225107228;13321362;Rua Marfim;Salto;São Paulo;SP
+28302000686;68513605;Rua Caixa D'água;Marabá;Pará;PA
+11788843914;08830660;Rua Mirim;Mogi das Cruzes;São Paulo;SP
+34756823502;65082547;Rua da Alegria;São Luís;Maranhão;MA
+22901476982;65632144;Rua H;Timon;Maranhão;MA
+02861091338;07713305;Rua Antonio Francisco Leme;Caieiras;São Paulo;SP
+72844937294;81880030;Rua Prudentópolis;Curitiba;Paraná;PR
+57190529022;08690780;Rua Cento e Cinqüenta;Suzano;São Paulo;SP
+28693327297;81470294;Rua São Maximiliano Maria Kolbe;Curitiba;Paraná;PR
+33912640110;27963698;Rua Durvalina Moura de Andrade;Macaé;Rio de Janeiro;RJ
+00120418470;68020815;Travessa Xingú;Santarém;Pará;PA
+95350598590;13218033;Rua Benedito Rigolo;Jundiaí;São Paulo;SP
+02961090212;23032776;Rua Yasmim;Rio de Janeiro;Rio de Janeiro;RJ
+87576772107;07400790;Rua Istilita Antonio Morais;Arujá;São Paulo;SP
+05828112119;13614300;Rua Demézio Nabarreti;Leme;São Paulo;SP
+15879580107;93125675;Rua Safira;São Leopoldo;Rio Grande do Sul;RS
+42213697075;44092052;Rua Ana Costa;Feira de Santana;Bahia;BA
+43735414297;38701638;Rua Edson Nunes de Paula;Patos de Minas;Minas Gerais;MG
+26138024926;13206510;Rua Santa Inês;Jundiaí;São Paulo;SP
+26178550837;22710365;Rua Rui de Andrade Pinto;Rio de Janeiro;Rio de Janeiro;RJ
+93657581378;60761191;Avenida Presidente Costa e Silva;Fortaleza;Ceará;CE
+43681893746;65634192;Rua Quatorze;Timon;Maranhão;MA
+59355611977;74783201;Rodovia GO-010;Goiânia;Goiás;GO
+11551849822;08616876;Rua Hélio de Souza Melo;Suzano;São Paulo;SP
+59195205399;23890007;Rua Antônio Honorato da Silva;Seropédica;Rio de Janeiro;RJ
+71533979784;65059290;Rua Padre Marcos II;São Luís;Maranhão;MA
+57825635979;29149500;Rua Aristides Vieira;Cariacica;Espírito Santo;ES
+99276407112;04822270;Rua Eduardo Ramos;São Paulo;São Paulo;SP
+29929705421;36037873;Rua Itanhandu;Juiz de Fora;Minas Gerais;MG
+91261450184;13327482;Rua Santa Maria Goretti;Salto;São Paulo;SP
+35723041167;04856020;Rua Antônio Salim Hissa Filho;São Paulo;São Paulo;SP
+69802880597;23085330;Rua Major Gabriel Teles;Rio de Janeiro;Rio de Janeiro;RJ
+61728517097;26180115;Rua Projetada D;Belford Roxo;Rio de Janeiro;RJ
+48629190946;69918258;Travessa Pilates;Rio Branco;Acre;AC
+79218969465;94853180;Rua Eduardo Prado;Alvorada;Rio Grande do Sul;RS
+91253619899;40024106;Ladeira da Barroquinha;Salvador;Bahia;BA
+99126114966;84264753;Rua Rio Mar da Galiléia;Telêmaco Borba;Paraná;PR
+65344270250;18704574;Rua Armando Silveira;Avaré;São Paulo;SP
+32514417295;25040150;Rua Lópes Trovão;Duque de Caxias;Rio de Janeiro;RJ
+64317596931;14164160;Rua Ernesto Matricardi;Sertãozinho;São Paulo;SP
+72327638817;13486198;Rua Sétimo Fracalossi;Limeira;São Paulo;SP
+77693913340;79904536;Rua Acadêmico Rodrigo Garcia Teixeira;Ponta Porã;Mato Grosso do Sul;MS
+65051006481;85815560;Rua Laranja;Cascavel;Paraná;PR
+38067126724;09445200;Rua Letícia;Ribeirão Pires;São Paulo;SP
+96044788121;89812638;Rua Anselmo Santa Catarina - D;Chapecó;Santa Catarina;SC
+19549945977;17527030;Rua Edgard Silva Lima;Marília;São Paulo;SP
+16047394488;85023390;Rua das Sálvias;Guarapuava;Paraná;PR
+02493286803;20521160;Rua Desembargador Izidro;Rio de Janeiro;Rio de Janeiro;RJ
+96435450713;14807083;Avenida Doutor Adhemar Pereira de Barros;Araraquara;São Paulo;SP
+21214296094;88352520;Rua Sebastião Venâncio Foster;Brusque;Santa Catarina;SC
+35759253722;08020070;Rua Manuel Moreira Ramos;São Paulo;São Paulo;SP
+54191287276;13635236;Rua José Luiz Franco de Oliveira;Pirassununga;São Paulo;SP
+98797907382;69920088;Rua Carambola;Rio Branco;Acre;AC
+89737603871;66623761;Alameda São Paulo;Belém;Pará;PA
+83820138875;31998758;Rua Norte Dois;Belo Horizonte;Minas Gerais;MG
+66548746810;24939270;Rua Ubatuba;Maricá;Rio de Janeiro;RJ
+01962426665;78050513;Rua L-1;Cuiabá;Mato Grosso;MT
+89067970617;20941290;Rua do Cruzeiro;Rio de Janeiro;Rio de Janeiro;RJ
+21294013643;23080040;Rua Butiá;Rio de Janeiro;Rio de Janeiro;RJ
+96238548373;26130230;Rua Gonçalves Gato;Belford Roxo;Rio de Janeiro;RJ
+72038562864;04164130;Rua Peter Lely;São Paulo;São Paulo;SP
+28893604308;03581190;Rua Domingos José Pelegi;São Paulo;São Paulo;SP
+13557260193;07230620;Rua Laércio Nazareno;Guarulhos;São Paulo;SP
+33718090596;07133060;Rua São João do Oriente;Guarulhos;São Paulo;SP
+18575269079;83040250;Rua Colorado;São José dos Pinhais;Paraná;PR
+61042770499;03986050;Rua Tibúrcio de Freitas;São Paulo;São Paulo;SP
+82548584470;11722100;Rua Antônio Rodrigues dos Reis;Praia Grande;São Paulo;SP
+80732349955;25907602;Avenida Guanabara;Magé;Rio de Janeiro;RJ
+10872332618;41770310;Travessa Avaré;Salvador;Bahia;BA
+48856144342;13432560;Rua Cubatão;Piracicaba;São Paulo;SP
+30301849753;79814111;Rua Vasco Venâncio Soares;Dourados;Mato Grosso do Sul;MS
+66795964790;12225520;Rua Vinte e Nove de Junho;São José dos Campos;São Paulo;SP
+57944739458;28899278;Rua Beli Milher;Rio das Ostras;Rio de Janeiro;RJ
+85912388011;04283050;Rua Anatole France;São Paulo;São Paulo;SP
+83150805714;21051415;Rua Pindaucu;Rio de Janeiro;Rio de Janeiro;RJ
+50994800472;04770200;Viela Purini;São Paulo;São Paulo;SP
+87053204049;45600116;Praça Laura Conceição;Itabuna;Bahia;BA
+38438801842;14021729;Rua O;Ribeirão Preto;São Paulo;SP
+14807871214;35680548;Rua Cláudia R. França Alves;Itaúna;Minas Gerais;MG
+55351560898;48904610;Rua Quatro;Juazeiro;Bahia;BA
+07225321050;27336470;Rua José Abel;Barra Mansa;Rio de Janeiro;RJ
+84688654391;72502501;Quadra QR 302 Conjunto A;Brasília;Distrito Federal;DF
+30220513969;53417030;Rua Padre Paraíso;Paulista;Pernambuco;PE
+63481109437;81170060;Rua São Leopoldo Mandic;Curitiba;Paraná;PR
+79849736088;49087393;Travessa Bela Vista;Aracaju;Sergipe;SE
+23678416206;07435705;Rua Jacy;Arujá;São Paulo;SP
+18956035269;07133060;Rua São João do Oriente;Guarulhos;São Paulo;SP
+40691082332;23850310;Rua Amaro Faria da Fonseca;Itaguaí;Rio de Janeiro;RJ
+89330619257;12503710;Travessa Tamandaré;Guaratinguetá;São Paulo;SP
+98660948382;24738807;Rua Almerinda Veloso da Cunha;São Gonçalo;Rio de Janeiro;RJ
+38750451972;24455720;Rua Álvaro Brandão;São Gonçalo;Rio de Janeiro;RJ
+33773264423;88819203;Rua Amarante Nunes;Criciúma;Santa Catarina;SC
+73251347011;64079123;Rua Antonio Evangelista de Sousa;Teresina;Piauí;PI
+10647355758;31742073;Rua Lúcio de Oliveira;Belo Horizonte;Minas Gerais;MG
+89136646910;29705217;Rua Ângelo Rizzoli;Colatina;Espírito Santo;ES
+01460968304;27524744;Rua Dezoito;Resende;Rio de Janeiro;RJ
+24670487913;13454206;Rua da Borracha;Santa Bárbara D'Oeste;São Paulo;SP
+51907312164;29156032;Rua João de Oliveira;Cariacica;Espírito Santo;ES
+20086428412;07195030;Rua Itália;Guarulhos;São Paulo;SP
+12155798064;66045160;Passagem Fé em Deus;Belém;Pará;PA
+19989190849;79093110;Rua Internacional;Campo Grande;Mato Grosso do Sul;MS
+14672648897;63013040;Rua João Marcelino;Juazeiro do Norte;Ceará;CE
+80001077590;52050200;Rua Ricardo Hardman;Recife;Pernambuco;PE
+45122841236;09941050;Travessa Cairo;Diadema;São Paulo;SP
+19877011233;24474175;Rua Major Felipe Pinto;São Gonçalo;Rio de Janeiro;RJ
+60742934388;17026000;Avenida Doutor Marcos de Paula Raphael;Bauru;São Paulo;SP
+49158880383;59025035;Travessa Pax;Natal;Rio Grande do Norte;RN
+16310914340;25640150;Rua Constancia Souza Garcia;Petrópolis;Rio de Janeiro;RJ
+35176057375;79833355;Rua José Fernandes Júnior;Dourados;Mato Grosso do Sul;MS
+00688210921;58300750;Rua Carneiro;Santa Rita;Paraíba;PB
+25620248454;74770010;Avenida Ademar de Barros;Goiânia;Goiás;GO
+65696181865;84064250;Rua Antonina Szathowski;Ponta Grossa;Paraná;PR
+46651701581;57073101;Condomínio Agra;Maceió;Alagoas;AL
+01121548682;68742194;Residencial Coelho;Castanhal;Pará;PA
+85599353443;32044300;Rua Maria Rita Aguiar;Contagem;Minas Gerais;MG
+31494547186;60543332;Rua Geraldo Barbosa;Fortaleza;Ceará;CE
+61533482803;34505410;Praça João Antero Lopes;Sabará;Minas Gerais;MG
+09692433564;03164120;Rua Almirante Brasil;São Paulo;São Paulo;SP
+20322662885;12908411;Rua Voluntário Juvenal Vasconcelos;Bragança Paulista;São Paulo;SP
+68082591994;72315536;Quadra QS 515 Conjunto F;Brasília;Distrito Federal;DF
+86180365149;69041784;Rua Leandro Presumido;Manaus;Amazonas;AM
+22387252911;86087645;Rua Ernesto Serra;Londrina;Paraná;PR
+76791982007;13478170;Rua Emílio Leão Brambilla;Americana;São Paulo;SP
+19639847749;23026490;Rua Dom Viçoso;Rio de Janeiro;Rio de Janeiro;RJ
+84327292971;55018040;Travessa das Flores;Caruaru;Pernambuco;PE
+65874550208;72851640;Rua 28;Luziânia;Goiás;GO
+90828076769;87711605;Rua Francisco Francez;Paranavaí;Paraná;PR
+21170064577;32113524;Rua Treze;Contagem;Minas Gerais;MG
+05531068888;15040285;Rua Antônio Carlos Mariotti;São José do Rio Preto;São Paulo;SP
+04336223992;04895041;Rua Doutor Antonio Faria de Miranda;São Paulo;São Paulo;SP
+13133288243;38706490;Rua Zico Soares;Patos de Minas;Minas Gerais;MG
+34001052135;13178654;Rua Cinco;Sumaré;São Paulo;SP
+70604586371;13058303;Rua Romeu Micheloni;Campinas;São Paulo;SP
+12413507200;59073251;Rua Senhor dos Passos;Natal;Rio Grande do Norte;RN
+81894367843;82640060;Rua Clara Nunes;Curitiba;Paraná;PR
+59211034060;89290126;Rua Octavio Maia;São Bento do Sul;Santa Catarina;SC
+53277743005;87711605;Rua Francisco Francez;Paranavaí;Paraná;PR
+39996995982;32141088;Rua Treze;Contagem;Minas Gerais;MG
+18619589742;13185022;Rua Quatorze;Hortolândia;São Paulo;SP
+92015303748;41810720;Rua Desembargador Álvaro Clemente de Oliveira;Salvador;Bahia;BA
+03333090861;77020036;Quadra 104 Sul Rua SE 4;Palmas;Tocantins;TO
+66141382941;13218300;Avenida Yolanda Ferreira Breda;Jundiaí;São Paulo;SP
+07422390405;04895041;Rua Doutor Antonio Faria de Miranda;São Paulo;São Paulo;SP
+95978075362;21940110;Rua Manuel Rodrigues;Rio de Janeiro;Rio de Janeiro;RJ
+83674688905;40279200;Travessa 25 de Novembro;Salvador;Bahia;BA
+35604284455;26113750;Rua Mossoró;Belford Roxo;Rio de Janeiro;RJ
+09461822948;95112540;Rua Antônio José Flores;Caxias do Sul;Rio Grande do Sul;RS
+24042982662;69006820;Travessa Salvador;Manaus;Amazonas;AM
+32407824586;35430077;Rua Tiradentes;Ponte Nova;Minas Gerais;MG
+63598483456;68015010;Rua Planalto;Santarém;Pará;PA
+46394439260;87080270;Rua Pioneiro Virgílio Acelino Cardoso;Maringá;Paraná;PR
+07360404935;13335370;Rua Caetê;Indaiatuba;São Paulo;SP
+34525025264;82400398;Rua Pedro Ivo Campos;Curitiba;Paraná;PR
+23910752543;72902230;Quadra Quadra 16;Santo Antônio do Descoberto;Goiás;GO
+98447278112;17024240;Rua Mário Manoel Sales Algodoal;Bauru;São Paulo;SP
+01484789632;74990430;Rua Wanderley Schmaltz;Aparecida de Goiânia;Goiás;GO
+04070175409;71575255;Quadra Quadra 37 Conjunto K;Brasília;Distrito Federal;DF
+11933711323;16201198;Rua Luiz Catharin;Birigüi;São Paulo;SP
+71856741233;60020290;Rua Padre Francisco Pinto;Fortaleza;Ceará;CE
+93258163108;55191585;Rua Quinze de Novembro;Santa Cruz do Capibaribe;Pernambuco;PE
+86982144631;68903083;Rua Joaquim Pena;Macapá;Amapá;AP
+18967298811;57062654;Rua 15-A;Maceió;Alagoas;AL
+14602459698;50110472;Rua Santa Clara de Assis;Recife;Pernambuco;PE
+26850121042;32186320;Rua Coromandel;Contagem;Minas Gerais;MG
+43997191299;64213267;Quadra I1;Parnaíba;Piauí;PI
+44694935882;72318560;Quadra QN 406;Brasília;Distrito Federal;DF
+29440037870;55012310;Rua Deputado Souto Filho;Caruaru;Pernambuco;PE
+27837806693;27265445;Rua Duzentos e Quarenta e Três;Volta Redonda;Rio de Janeiro;RJ
+87039829262;88053411;Rua das Caraúnas;Florianópolis;Santa Catarina;SC
+66481501614;69067750;Rua Filemon;Manaus;Amazonas;AM
+66694923071;49026209;Avenida Hélio de Souza Leão;Aracaju;Sergipe;SE
+79230976919;58056080;Rua Dionísio Marinho de Araújo;João Pessoa;Paraíba;PB
+55422483638;26296576;Rua Narciso;Nova Iguaçu;Rio de Janeiro;RJ
+26989223395;16058500;Rua Fermino Marques de Brito;Araçatuba;São Paulo;SP
+13203574881;41230140;Rua São Francisco Xavier;Salvador;Bahia;BA
+66986868551;13087551;Rua Alcides Fernandes Carvalho;Campinas;São Paulo;SP
+39237911855;18132653;Rua Maria Augusta Ferreira;São Roque;São Paulo;SP
+05250971674;27321070;Rua Santa Luzia;Barra Mansa;Rio de Janeiro;RJ
+30620944716;34710540;Rua Gávea;Sabará;Minas Gerais;MG
+35122483976;88819120;Rua José Estefani;Criciúma;Santa Catarina;SC
+47781615605;73752137;Quadra 7 AE;Planaltina;Goiás;GO
+38754606796;91790172;Acesso A Três;Porto Alegre;Rio Grande do Sul;RS
+07051732553;29943620;Rua Fícus;São Mateus;Espírito Santo;ES
+98729115783;79115120;Rua Guanandi;Campo Grande;Mato Grosso do Sul;MS
+93946389002;15044651;Rua João Rodrigues da Silveira;São José do Rio Preto;São Paulo;SP
+07490143775;72927800;Quadra Quadra 22;Águas Lindas de Goiás;Goiás;GO
+87597241581;54170040;Rua da Goiaba;Jaboatão dos Guararapes;Pernambuco;PE
+01894798962;88119308;Rua dos Escritores;São José;Santa Catarina;SC
+80453053248;58073204;Rua Manoel Geremias de Albuquerque;João Pessoa;Paraíba;PB
+08662448706;18017368;Rua José D'Ambrósio;Sorocaba;São Paulo;SP
+55122835290;88119308;Rua dos Escritores;São José;Santa Catarina;SC
+64522135935;09111720;Rua Pará;Santo André;São Paulo;SP
+06319232999;70373000;Quadra SQS 110;Brasília;Distrito Federal;DF
+79814254511;40230049;1ª Travessa Nipônica;Salvador;Bahia;BA
+28309803572;26165360;Rua B;Belford Roxo;Rio de Janeiro;RJ
+44219897595;68005370;Rua Augusto Montenegro;Santarém;Pará;PA
+99331246163;27335400;Rua Antônio Rodrigues Valente;Barra Mansa;Rio de Janeiro;RJ
+38432935332;35052835;Rua Palmeiras;Governador Valadares;Minas Gerais;MG
+62628942628;08717050;Rua Capitão Mariano;Mogi das Cruzes;São Paulo;SP
+14554618806;85817370;Travessa Nicarágua;Cascavel;Paraná;PR
+68871950571;09832080;Rua do Araçá;São Bernardo do Campo;São Paulo;SP
+96199134111;13632460;Alameda das Açucenas;Pirassununga;São Paulo;SP
+51887086989;70658332;Quadra SHCES Quadra 1303 Bloco B;Brasília;Distrito Federal;DF
+14561033388;29173508;Avenida dos Jaçanãs;Serra;Espírito Santo;ES
+06948258194;72535200;Quadra QC 1 Conjunto T;Brasília;Distrito Federal;DF
+06116269845;60760355;Vila Ângela;Fortaleza;Ceará;CE
+92364544237;22775740;Rua Otávio Coimbra;Rio de Janeiro;Rio de Janeiro;RJ
+79940615090;11676691;Rua José Garcia da Fonseca;Caraguatatuba;São Paulo;SP
+80859271910;74783201;Rodovia GO-010;Goiânia;Goiás;GO
+87085075564;55295555;Rua Canhotinho;Garanhuns;Pernambuco;PE
+29165669732;29163529;Rua Lisboa;Serra;Espírito Santo;ES
+43511904696;29906440;Rua José Carlos Langa;Linhares;Espírito Santo;ES
+75948593679;97070512;Rua A;Santa Maria;Rio Grande do Sul;RS
+59947708264;97507730;Rua Padre Anchieta;Uruguaiana;Rio Grande do Sul;RS
+84814790982;57607380;Rua Manoel Tenório de Albuquerque;Palmeira dos Índios;Alagoas;AL
+07425275639;89806388;Rua Marechal Floriano Peixoto - L;Chapecó;Santa Catarina;SC
+71283694211;28890615;Rua Gomes Rodrigues;Rio das Ostras;Rio de Janeiro;RJ
+14510207922;25949395;Estrada Sucavão;Guapimirim;Rio de Janeiro;RJ
+84430163678;17512816;Rua Athanízio Senna da Silva;Marília;São Paulo;SP
+97949080032;13482384;Rua Joaquim Daniel dos Santos;Limeira;São Paulo;SP
+70754824022;72812565;Rua 2 de Julho;Luziânia;Goiás;GO
+39946763584;58807015;Rua Fernando Henrique Lima de Queiroz;Sousa;Paraíba;PB
+72195951907;79645655;Rua Etelvino Custódio de Queiroz;Três Lagoas;Mato Grosso do Sul;MS
+65065556349;15041516;Rua Walter Carlos Araújo;São José do Rio Preto;São Paulo;SP
+59759786008;05520300;Avenida Professor Francisco Morato;São Paulo;São Paulo;SP
+17193476542;05586000;Rua Iquiririm;São Paulo;São Paulo;SP
+68480136701;29113110;Rua Biririca;Vila Velha;Espírito Santo;ES
+62554025758;72506413;Quadra QR 206 Área Especial 1;Brasília;Distrito Federal;DF
+88110448096;07713305;Rua Antonio Francisco Leme;Caieiras;São Paulo;SP
+75081030541;44571145;Rua Forte de São Marcelo;Santo Antônio de Jesus;Bahia;BA
+74997421242;06145100;Rua Santa Clara;Osasco;São Paulo;SP
+82921817659;83310470;Rua Sebastião Leonel;Piraquara;Paraná;PR
+94840525697;78552451;Rua das Bracatingas;Sinop;Mato Grosso;MT
+40134335114;17012050;Rua Antônio Garcia;Bauru;São Paulo;SP
+75100060489;76803812;Rua José Galvão;Porto Velho;Rondônia;RO
+57523125036;05574410;Travessa Cachoeira das Flores;São Paulo;São Paulo;SP
+54882901529;69089400;Avenida Cosme Ferreira;Manaus;Amazonas;AM
+62997238943;69068480;Rua Apurimac;Manaus;Amazonas;AM
+76482652484;34505410;Praça João Antero Lopes;Sabará;Minas Gerais;MG
+52231180728;18618018;Rua Antonio Raimundo;Botucatu;São Paulo;SP
+06291434398;69020710;Vila Elza;Manaus;Amazonas;AM
+70386404233;15704248;Rua dos Guatambus;Jales;São Paulo;SP
+67558717362;69058366;Alameda Delta;Manaus;Amazonas;AM
+92730758815;94135291;Rua Uberaba;Gravataí;Rio Grande do Sul;RS
+56041513170;25080295;Travessa Acre;Duque de Caxias;Rio de Janeiro;RJ
+74374626170;25250312;Rua São Valério;Duque de Caxias;Rio de Janeiro;RJ
+90223115332;35024003;Rua Dois;Governador Valadares;Minas Gerais;MG
+34215050201;66030328;Vila Jorge Andrade;Belém;Pará;PA
+58472564125;13607251;Praça Ricieri Pechinatti;Araras;São Paulo;SP
+53281447695;45990163;Rua Jardim América;Teixeira de Freitas;Bahia;BA
+54800490916;20180007;Ilha do Sol;Rio de Janeiro;Rio de Janeiro;RJ
+44225901649;89234042;Rua Natanael Amorim Vieira;Joinville;Santa Catarina;SC
+64991038584;72871655;Quadra Quadra 12;Valparaíso de Goiás;Goiás;GO
+96149314206;79044847;Rua Deodápolis;Campo Grande;Mato Grosso do Sul;MS
+53681368001;28093010;Rua Francisco Gomes Moço;Campos dos Goytacazes;Rio de Janeiro;RJ
+17400527049;38414648;Rua Evaristo Atanásio de Melo;Uberlândia;Minas Gerais;MG
+38879148046;55819745;Rua Joaquim Domingos de Freitas;Carpina;Pernambuco;PE
+52995634119;85814502;Rua Simão Pol;Cascavel;Paraná;PR
+70245439004;12223105;Via Nair de Souza Camargo Oliveira;São José dos Campos;São Paulo;SP
+57065122391;21865470;Via Um;Rio de Janeiro;Rio de Janeiro;RJ
+84113980447;61920010;Rua 100;Maracanaú;Ceará;CE
+65522284024;99712260;Rua Eurico Assis Maciel;Erechim;Rio Grande do Sul;RS
+38025266035;11667370;Praça Josefina Galiano Nobre;Caraguatatuba;São Paulo;SP
+03671014986;68903410;1ª Avenida da Universidade;Macapá;Amapá;AP
+08653043363;86183830;Rua Serra da Cantareira;Cambé;Paraná;PR
+92622881738;08830660;Rua Mirim;Mogi das Cruzes;São Paulo;SP
+92016906762;96207030;Rua Dezesseis;Rio Grande;Rio Grande do Sul;RS
+83771870311;69918434;Rua Otília;Rio Branco;Acre;AC
+99180508751;08122415;Rua Leonil;São Paulo;São Paulo;SP
+06901334367;81460377;Rua Vital Vernize;Curitiba;Paraná;PR
+25481595545;29161768;Rua Gonzaga;Serra;Espírito Santo;ES
+57217190427;56503565;Rua do Campo;Arcoverde;Pernambuco;PE
+18310157072;76876556;Rua Paranavaí;Ariquemes;Rondônia;RO
+12890291686;87083531;Rua Ametista;Maringá;Paraná;PR
+41029113826;35681073;Avenida Sanitária;Itaúna;Minas Gerais;MG
+46246917541;68015010;Rua Planalto;Santarém;Pará;PA
+49138011457;87310370;Rua Segismundo Dlugosz;Campo Mourão;Paraná;PR
+94740024356;24900490;Rua República dos Italianos;Maricá;Rio de Janeiro;RJ
+47340364804;24732045;Rua Marcelino Mesquita;São Gonçalo;Rio de Janeiro;RJ
+20098937131;86058284;Rua Alfredo Fenner;Londrina;Paraná;PR
+11397886100;31320100;Rua Joaquim Henriques Cardoso;Belo Horizonte;Minas Gerais;MG
+01806077965;09765620;Rua Sapucaia;São Bernardo do Campo;São Paulo;SP
+01673994425;29179236;Rua Jarana;Serra;Espírito Santo;ES
+99983586057;29155623;Rua Lourival de Almeida;Cariacica;Espírito Santo;ES
+95274813332;69099147;Rua Salto do Jirau;Manaus;Amazonas;AM
+52255929608;18204010;Rua Crisoberilo;Itapetininga;São Paulo;SP
+52171989225;05762260;Rua Sebastião Martins Pereira;São Paulo;São Paulo;SP
+20528591857;11675642;Rua D;Caraguatatuba;São Paulo;SP
+88793538093;17025400;Rua José Antônio Barreto;Bauru;São Paulo;SP
+28539128616;07172330;Viela Oliveira;Guarulhos;São Paulo;SP
+05968928033;12903391;Rua Canadá;Bragança Paulista;São Paulo;SP
+63749427979;55191585;Rua Quinze de Novembro;Santa Cruz do Capibaribe;Pernambuco;PE
+22030490147;14784094;Alameda Júlio Calil;Barretos;São Paulo;SP
+66276468196;35039710;Rua D;Governador Valadares;Minas Gerais;MG
+05239560825;28013440;Rua Doutor Álvaro de Lacerda;Campos dos Goytacazes;Rio de Janeiro;RJ
+43360296222;13346130;Rua Neusa Maria Camargo Costa;Indaiatuba;São Paulo;SP
+49450689517;29934738;Rua Louzival Carvalho Filho;São Mateus;Espírito Santo;ES
+96098941391;29026763;Rua Macau;Vitória;Espírito Santo;ES
+07146004132;18611440;Avenida Professor Adolfo Pinheiro Machado;Botucatu;São Paulo;SP
+74916334227;21061110;Rua Cambuca;Rio de Janeiro;Rio de Janeiro;RJ
+83698055240;35502131;Rua Lília Natividade;Divinópolis;Minas Gerais;MG
+63545492518;25922872;Rua Trinta e Um de Março;Magé;Rio de Janeiro;RJ
+85618785083;41321465;Rua Edgar Sanches;Salvador;Bahia;BA
+42817324519;87040060;Rua Barão do Tietê;Maringá;Paraná;PR
+14124968791;16050683;Rua Imaculado Coração de Maria;Araçatuba;São Paulo;SP
+17760794860;13060272;Passagem Famosa;Campinas;São Paulo;SP
+02158740055;14092160;Rua Doutor Morais Lima;Ribeirão Preto;São Paulo;SP
+40463630697;13087551;Rua Alcides Fernandes Carvalho;Campinas;São Paulo;SP
+00085378542;22260007;Rua São Clemente;Rio de Janeiro;Rio de Janeiro;RJ
+37737270742;72920070;Quadra Quadra 24;Águas Lindas de Goiás;Goiás;GO
+63599497551;12712060;Rua Plínio Moreira;Cruzeiro;São Paulo;SP
+29719345826;96815700;Rua Garibaldi;Santa Cruz do Sul;Rio Grande do Sul;RS
+51287374754;38039770;Rua Durvalina Quintino da Cruz;Uberaba;Minas Gerais;MG
+60609351041;37704780;Travessa Um;Poços de Caldas;Minas Gerais;MG
+28687861754;04640010;Praça Engenheiro Dácio Morais Júnior;São Paulo;São Paulo;SP
+97012343985;82400381;Rua Júlio Barbosa;Curitiba;Paraná;PR
+79617568119;41336500;Rua Pousada da Jaqueira;Salvador;Bahia;BA
+30646237994;48906015;Rua das Flores;Juazeiro;Bahia;BA
+53784083841;69041784;Rua Leandro Presumido;Manaus;Amazonas;AM
+60853942127;72006296;Rua Rua 4 Chácara 288;Brasília;Distrito Federal;DF
+45071541332;66823215;Vila Centro Comercial;Belém;Pará;PA
+26993200944;45603295;Rua Leopoldo Freire;Itabuna;Bahia;BA
+54078977693;88516240;Rua da Horta;Lages;Santa Catarina;SC
+82270898634;08676010;Rua Kaneji Kodama;Suzano;São Paulo;SP
+93589932729;38444240;Avenida Brasil;Araguari;Minas Gerais;MG
+78277725561;16022731;Rua Evaristo dos Santos;Araçatuba;São Paulo;SP
+94943409465;09436290;Rua Helena Del Corto;Ribeirão Pires;São Paulo;SP
+89996151752;09071460;Travessa Santana;Santo André;São Paulo;SP
+38020570376;14401306;Rua da Câmara;Franca;São Paulo;SP
+65316438971;69015310;Rua São Francisco de Canindé;Manaus;Amazonas;AM
+73596850578;29201310;Rua Benedita dos Santos Loureiro;Guarapari;Espírito Santo;ES
+07848634777;21240470;Rua Cristiano Machado;Rio de Janeiro;Rio de Janeiro;RJ
+52718616982;96830222;Rua João Baumhardt;Santa Cruz do Sul;Rio Grande do Sul;RS
+27234326097;78050184;Rua F;Cuiabá;Mato Grosso;MT
+83121863487;53370525;Rua José P. de Oliveira;Olinda;Pernambuco;PE
+06169100973;13207749;Praça Washington Luiz Pereira de Souza;Jundiaí;São Paulo;SP
+66467190521;89253427;Rua Joseph August Henning;Jaraguá do Sul;Santa Catarina;SC
+65350632205;18081110;Rua João Gabriel Mendes;Sorocaba;São Paulo;SP
+98318874725;06709660;Rua Áries;Cotia;São Paulo;SP
+45834228275;58057370;Rua Creusa Campos de Vasconcelos;João Pessoa;Paraíba;PB
+02191439259;61635290;Rua 10;Caucaia;Ceará;CE
+55210104021;51011690;Rua Vila Oliveira;Recife;Pernambuco;PE
+25893621391;66814010;Vila Verde;Belém;Pará;PA
+00704051057;29155623;Rua Lourival de Almeida;Cariacica;Espírito Santo;ES
+80269993582;45820070;Praça da Bandeira;Eunápolis;Bahia;BA
+07398786241;99036540;Rua Santa Marta;Passo Fundo;Rio Grande do Sul;RS
+54766763076;12510510;Rua Deputado Roberto Cardoso Alves;Guaratinguetá;São Paulo;SP
+03531404865;76874050;Travessa Constelação;Ariquemes;Rondônia;RO
+56428795425;88348360;Rua Jequitiba;Camboriú;Santa Catarina;SC
+34194951602;72316001;Quadra QR 206 Conjunto 1;Brasília;Distrito Federal;DF
+94686021255;86702471;Rua Arara-celeste;Arapongas;Paraná;PR
+92342947918;25233070;Rua Nossa Senhora da Conceição;Duque de Caxias;Rio de Janeiro;RJ
+10626733469;43810235;Rua Desembargador Teixeira de Freitas;Candeias;Bahia;BA
+98828768465;60745740;Rua Vinte e Três de Abril;Fortaleza;Ceará;CE
+64866521670;40451190;Vila Ponciano;Salvador;Bahia;BA
+31302725870;49026110;Rua Maria Alice O. Costa;Aracaju;Sergipe;SE
+05999067182;65073139;Avenida Dois;São Luís;Maranhão;MA
+17963634399;17056265;Rua Dois;Bauru;São Paulo;SP
+78730428597;80730200;Alameda Doutor Carlos de Carvalho;Curitiba;Paraná;PR
+54947137085;83606152;Travessa Ângela Magaton Stoco;Campo Largo;Paraná;PR
+14918249135;74770010;Avenida Ademar de Barros;Goiânia;Goiás;GO
+97011866444;02551110;Travessa do Limão;São Paulo;São Paulo;SP
+20245374206;29143809;Rua Jatobá;Cariacica;Espírito Santo;ES
+53504980485;67103450;Rua Oitava;Ananindeua;Pará;PA
+68300990752;21615410;Rua Sargento Geraldo Santana;Rio de Janeiro;Rio de Janeiro;RJ
+61456345614;08141004;Rua Vitória do Espírito Santo;São Paulo;São Paulo;SP
+86777746956;96840640;Rua Carlos Schutz;Santa Cruz do Sul;Rio Grande do Sul;RS
+24319726030;38440026;Praça do Rosário;Araguari;Minas Gerais;MG
+16709466887;26155504;Rua E;Belford Roxo;Rio de Janeiro;RJ
+16281756162;84264753;Rua Rio Mar da Galiléia;Telêmaco Borba;Paraná;PR
+39090018224;53370525;Rua José P. de Oliveira;Olinda;Pernambuco;PE
+31631310696;25223440;Rua Lúcia;Duque de Caxias;Rio de Janeiro;RJ
+66728920561;38303015;Rua Vitória;Ituiutaba;Minas Gerais;MG
+32854516436;68627482;Rua Padre Malagrida;Paragominas;Pará;PA
+93615692538;78115722;Rua Vicente de Barros;Várzea Grande;Mato Grosso;MT
+74865987772;13735017;Rua João Batista Giacoia;Mococa;São Paulo;SP
+58689903087;97541330;Rua Juscelino Kubitschek de Oliveira;Alegrete;Rio Grande do Sul;RS
+49303681005;08557260;Avenida Marginal Variante;Poá;São Paulo;SP
+25335578214;06683525;Rua Guilhermina Coelho;Itapevi;São Paulo;SP
+82049774336;70200695;Quadra SGAS 609/610;Brasília;Distrito Federal;DF
+45209691844;17204550;Rua Tufik Sarkis;Jaú;São Paulo;SP
+05895932382;38039770;Rua Durvalina Quintino da Cruz;Uberaba;Minas Gerais;MG
+16509024605;41207595;Rua Canal;Salvador;Bahia;BA
+43151364969;57085738;Rua B-46;Maceió;Alagoas;AL
+89049045060;41340100;Conjunto Fazenda Grande I;Salvador;Bahia;BA
+44801561801;86047606;Rua Pedro Vendrami Filho;Londrina;Paraná;PR
+19369730241;18207816;Rua Salvador Costa;Itapetininga;São Paulo;SP
+52797897518;69918258;Travessa Pilates;Rio Branco;Acre;AC
+31037693356;21530160;Rua Ender;Rio de Janeiro;Rio de Janeiro;RJ
+20464663607;54320021;1ª Travessa São Bento;Jaboatão dos Guararapes;Pernambuco;PE
+41756915037;14165458;Rua José Américo Baratela;Sertãozinho;São Paulo;SP
+53874602260;55645716;Rua Antônio Guilhermino do Nascimento;Gravatá;Pernambuco;PE
+26311738659;31160550;Rua Professor Patrocínio Filho;Belo Horizonte;Minas Gerais;MG
+36301064667;41280670;Rua Lígia Maria;Salvador;Bahia;BA
+70510546054;24900490;Rua República dos Italianos;Maricá;Rio de Janeiro;RJ
+89346658526;05833030;Avenida Alberto Vicente Cardoso;São Paulo;São Paulo;SP
+63510090685;59154175;Avenida Parque dos Pássaros;Parnamirim;Rio Grande do Norte;RN
+29527403424;07083350;Rua Três Fronteiras;Guarulhos;São Paulo;SP
+38383003934;24240450;Rua Tomé Tostes;Niterói;Rio de Janeiro;RJ
+55021619254;06620030;Rua Manoel Nunes;Jandira;São Paulo;SP
+32386645469;05447190;Praça Jorge Baptista;São Paulo;São Paulo;SP
+40815098225;12060060;Rua Campos de Jordão;Taubaté;São Paulo;SP
+64726288666;58108256;Rua Jesus de Nazaré;Cabedelo;Paraíba;PB
+33170994220;64065040;Rua Bandeirantes;Teresina;Piauí;PI
+38924545693;79814111;Rua Vasco Venâncio Soares;Dourados;Mato Grosso do Sul;MS
+14092127011;59074365;Vila Ferro Cardoso;Natal;Rio Grande do Norte;RN
+03900322496;86047606;Rua Pedro Vendrami Filho;Londrina;Paraná;PR
+29412456532;09401090;Rua José Laurito;Ribeirão Pires;São Paulo;SP
+32252677507;79008221;Travessa Eça de Queiroz;Campo Grande;Mato Grosso do Sul;MS
+76526550360;04417070;Rua Salvador Faria de Albernaz;São Paulo;São Paulo;SP
+42727863560;03693040;Avenida Frederick Hoffmann;São Paulo;São Paulo;SP
+69038147087;74888040;Rua RB 10;Goiânia;Goiás;GO
+95832270440;88805248;Rua Ademar de Costa;Criciúma;Santa Catarina;SC
+22339087409;63901210;Rua 7;Quixadá;Ceará;CE
+25372156474;33821470;Rua Escritor José Lins do Rego;Ribeirão das Neves;Minas Gerais;MG
+85079700855;53120560;Vila Santa Helena;Olinda;Pernambuco;PE
+53934551398;57014508;Quadra 33;Maceió;Alagoas;AL
+54384183488;03934075;Rua Peçanha;São Paulo;São Paulo;SP
+80683665547;35702387;Rua Donatila França;Sete Lagoas;Minas Gerais;MG
+05432733780;29175648;Beco Castelo Branco;Serra;Espírito Santo;ES
+48651062769;13732419;Rua Raul Roberto Campos;Mococa;São Paulo;SP
+41356937554;27335380;Rua Jandir Luís da Rocha;Barra Mansa;Rio de Janeiro;RJ
+23082096438;68926385;Travessa Igarapé Anaeurapucu;Santana;Amapá;AP
+47176090912;14781468;Rua C-24;Barretos;São Paulo;SP
+92589168649;83705576;Rua Nilo Cardoso Bacelar;Araucária;Paraná;PR
+44584040158;37701570;Rua Virgulino Borges Nery;Poços de Caldas;Minas Gerais;MG
+68398022314;13841150;Avenida Nair Galhardoni;Mogi Guaçu;São Paulo;SP
+12762899780;81480151;Rua João Fernando Ramon Alegre Alarcon;Curitiba;Paraná;PR
+50706008826;74485570;Rua Lisieux;Goiânia;Goiás;GO
+14312324064;79112480;Rua Colorado;Campo Grande;Mato Grosso do Sul;MS
+03538709669;27259080;Rua Cinco;Volta Redonda;Rio de Janeiro;RJ
+62956681594;57063211;Rua Transversal I;Maceió;Alagoas;AL
+80514561973;50730670;Avenida Múcio Uchôa Cavalcanti;Recife;Pernambuco;PE
+33888463499;69060300;Rua Luís Pedro Peregrino;Manaus;Amazonas;AM
+72979565005;74474316;Rua RB 5 A;Goiânia;Goiás;GO
+85996195950;41340100;Conjunto Fazenda Grande I;Salvador;Bahia;BA
+56402452318;52191111;Rua Urandi;Recife;Pernambuco;PE
+81963643217;66625325;Rua T-7;Belém;Pará;PA
+78025418101;05447190;Praça Jorge Baptista;São Paulo;São Paulo;SP
+39967182832;55002250;Rua Antônio Satu;Caruaru;Pernambuco;PE
+96848162895;72319571;Quadra QS 405 Conjunto A;Brasília;Distrito Federal;DF
+90286314771;08030000;Avenida Coca;São Paulo;São Paulo;SP
+12602294118;06360280;Rua Serra dos Órgãos;Carapicuíba;São Paulo;SP
+90606897388;61654330;Rua C;Caucaia;Ceará;CE
+17075488099;13453744;Rua Hermano Parazzi;Santa Bárbara D'Oeste;São Paulo;SP
+30620814905;06726670;Alameda Andrea;Cotia;São Paulo;SP
+35637037975;24805729;Rua Doze;Itaboraí;Rio de Janeiro;RJ
+53823116192;16025050;Rua Cussy de Almeida Júnior;Araçatuba;São Paulo;SP
+26111368173;36050070;Rua Doutor Alberto Vieira Lima;Juiz de Fora;Minas Gerais;MG
+51799160330;85025280;Rua Paulo Mendes Campos;Guarapuava;Paraná;PR
+91806228873;86702390;Rua Uiratatá;Arapongas;Paraná;PR
+28382806966;05857550;Rua Roberto Botelho;São Paulo;São Paulo;SP
+78970106550;05805030;Rua Guimarães Tavares;São Paulo;São Paulo;SP
+04551928374;60135600;Praça João Dummar;Fortaleza;Ceará;CE
+82670699585;22641506;Rua Pau Brasil;Rio de Janeiro;Rio de Janeiro;RJ
+71886876340;36202336;Praça Presidente Antônio Carlos;Barbacena;Minas Gerais;MG
+97202822644;32672088;Avenida Belo Horizonte;Betim;Minas Gerais;MG
+33477623309;74983719;Rua dos Xerentes;Aparecida de Goiânia;Goiás;GO
+07338713264;83310470;Rua Sebastião Leonel;Piraquara;Paraná;PR
+92655326277;91225200;Rua Madre Bárbara Maix;Porto Alegre;Rio Grande do Sul;RS
+02523071912;38705106;Praça Madrid;Patos de Minas;Minas Gerais;MG
+21039777725;88819203;Rua Amarante Nunes;Criciúma;Santa Catarina;SC
+92231093986;13401823;Rua Bruno Bettoni;Piracicaba;São Paulo;SP
+96843800079;03721036;Viela Cesário Pereto;São Paulo;São Paulo;SP
+56269995882;27521150;Travessa Dois;Resende;Rio de Janeiro;RJ
+99308449108;91160814;Acesso B Três;Porto Alegre;Rio Grande do Sul;RS
+54546773381;82840500;Rua Attílio Ramon;Curitiba;Paraná;PR
+58850190351;66815146;Rua Iêda Chaves;Belém;Pará;PA
+70671706294;69099311;Rua Tiepolo;Manaus;Amazonas;AM
+46311876650;27285330;Rua Vinte;Volta Redonda;Rio de Janeiro;RJ
+97363864767;98801426;Rua Expedicionário Arnhold Rudolf Ketzer;Santo Ângelo;Rio Grande do Sul;RS
+54379701474;05528380;Viela Santa Brígida;São Paulo;São Paulo;SP
+01740302320;25035540;Rua Vera;Duque de Caxias;Rio de Janeiro;RJ
+92399597127;77829120;Quadra 60;Araguaína;Tocantins;TO
+84148770051;38408072;Rua Romeu Margonari;Uberlândia;Minas Gerais;MG
+02950360450;50950110;Rua Doutor Mário Rodolfo Araújo Filho;Recife;Pernambuco;PE
+39439074742;36300380;Rua Josino Ribeiro Silva;São João Del Rei;Minas Gerais;MG
+35574719011;21854152;Caminho da Figueira;Rio de Janeiro;Rio de Janeiro;RJ
+14357561491;12232570;Avenida Antônio Joaquim de Alvarenga Filho;São José dos Campos;São Paulo;SP
+73741157664;18052020;Rua Palmo Carani;Sorocaba;São Paulo;SP
+66906233005;79902168;Rua Iturama;Ponta Porã;Mato Grosso do Sul;MS
+90922630049;16050070;Rua São Vicente;Araçatuba;São Paulo;SP
+94833527439;06704762;Rua Juruá;Cotia;São Paulo;SP
+81845750988;13050035;Avenida das Amoreiras;Campinas;São Paulo;SP
+33282950937;14807341;Avenida Alfredo Gabriel Haddad;Araraquara;São Paulo;SP
+57483236869;66075405;Vila Julieta;Belém;Pará;PA
+96010202098;45037770;Rua Trinta e Quatro;Vitória da Conquista;Bahia;BA
+17210395805;65070300;Rua Miguel Baury;São Luís;Maranhão;MA
+49004995828;38401625;Avenida Carlos Henrique Tassini;Uberlândia;Minas Gerais;MG
+67639311525;45038305;Rua Vinte;Vitória da Conquista;Bahia;BA
+91972680039;79081630;Rua Ginez Paulo Correa;Campo Grande;Mato Grosso do Sul;MS
+91026278675;89026346;Rua Maria Hort;Blumenau;Santa Catarina;SC
+81490055172;57085738;Rua B-46;Maceió;Alagoas;AL
+97980872411;64086130;Quadra A;Teresina;Piauí;PI
+69462766948;79833355;Rua José Fernandes Júnior;Dourados;Mato Grosso do Sul;MS
+72309186607;40717328;Travessa Las Vegas;Salvador;Bahia;BA
+28290054161;17533220;Estrada Municipal Rosália;Marília;São Paulo;SP
+07406968620;45007220;Rua Coronel Maneca Santos;Vitória da Conquista;Bahia;BA
+00103036179;07160240;Rua Jefe;Guarulhos;São Paulo;SP
+25015102710;08473380;Rua Cláudio Leguine;São Paulo;São Paulo;SP
+65227894777;33025567;Rua da União;Santa Luzia;Minas Gerais;MG
+68173136882;93425336;Rua Alcina Pacheco Martins;Novo Hamburgo;Rio Grande do Sul;RS
+26086948920;56512390;Rua Leôncio Brito de Melo;Arcoverde;Pernambuco;PE
+27113238371;66814010;Vila Verde;Belém;Pará;PA
+01465248656;61658500;Rua 256;Caucaia;Ceará;CE
+27403615452;40286560;Travessa São José;Salvador;Bahia;BA
+52635708895;23080040;Rua Butiá;Rio de Janeiro;Rio de Janeiro;RJ
+36059757835;13032377;Avenida John Boyd Dunlop;Campinas;São Paulo;SP
+31284048801;69315318;Rua Médico Nazih Siagha;Boa Vista;Roraima;RR
+04943308089;81210520;Rua João Bagé;Curitiba;Paraná;PR
+68604191063;13256753;Rua Magdalena Benedetti Giaretta;Itatiba;São Paulo;SP
+48095430940;14071570;Rua João Saretta Neto;Ribeirão Preto;São Paulo;SP
+00014736568;07776435;Avenida Deovair Cruz de Oliveira;Cajamar;São Paulo;SP
+46611307564;04930170;Rua José de Oliveira;São Paulo;São Paulo;SP
+17764846961;89251450;Rua Fiscal Verdi Francisco Lenzi;Jaraguá do Sul;Santa Catarina;SC
+10033744359;70150000;Setor SPP;Brasília;Distrito Federal;DF
+02033700037;40386050;Rua Ápio Patrocínio;Salvador;Bahia;BA
+50087322761;96823310;Rua Ervino Schwertz;Santa Cruz do Sul;Rio Grande do Sul;RS
+10925243577;83307160;Rua Ceará;Piraquara;Paraná;PR
+59109326934;13252638;Rua Bacuri;Itatiba;São Paulo;SP
+83875317847;78705871;Rua São Paulo;Rondonópolis;Mato Grosso;MT
+74328384932;11709100;Rua Assis Valente;Praia Grande;São Paulo;SP
+74433489102;29134720;Estrada João Ferreira de Nascimento;Viana;Espírito Santo;ES
+30334466382;06709660;Rua Áries;Cotia;São Paulo;SP
+90413697143;13099008;Rua Sônia Barreto Tupynambá Freire;Campinas;São Paulo;SP
+06613656395;88058706;Rua dos Curiós;Florianópolis;Santa Catarina;SC
+41018068532;85012060;Rua Generoso de Paula Bastos;Guarapuava;Paraná;PR
+56478531816;32656660;Rua da Inglaterra;Betim;Minas Gerais;MG
+02345272292;17024843;Rua Jeryes Shayeb;Bauru;São Paulo;SP
+56835083758;11340370;Rua Pedro Alves;São Vicente;São Paulo;SP
+88191923371;02551110;Travessa do Limão;São Paulo;São Paulo;SP
+24788455216;59090275;Rua Santo Antônio;Natal;Rio Grande do Norte;RN
+64208273027;79017061;Rua Albertina Pimentel;Campo Grande;Mato Grosso do Sul;MS
+59148571578;76876556;Rua Paranavaí;Ariquemes;Rondônia;RO
+39996166054;64041500;Rua Cinquenta e Sete;Teresina;Piauí;PI
+39073714847;72876108;Bloco Setor Comercial Bloco D;Valparaíso de Goiás;Goiás;GO
+00988757570;38440042;Avenida Minas Gerais;Araguari;Minas Gerais;MG
+22081915325;37709005;Caminho J;Poços de Caldas;Minas Gerais;MG
+29697593706;42809051;Avenida Concêntrica;Camaçari;Bahia;BA
+92032976026;59604392;Vila São José;Mossoró;Rio Grande do Norte;RN
+93865683369;57084669;Rua C-17;Maceió;Alagoas;AL
+68380538463;87060684;Avenida Joaquim Duarte Moleirinho;Maringá;Paraná;PR
+69107141627;81470294;Rua São Maximiliano Maria Kolbe;Curitiba;Paraná;PR
+94260372834;35170173;Rua Itaúna;Coronel Fabriciano;Minas Gerais;MG
+40418863135;18610141;Praça João Cecilio;Botucatu;São Paulo;SP
+30361049753;40323380;Travessa Santo Antônio;Salvador;Bahia;BA
+75739927138;90035006;Rua Ramiro Barcelos;Porto Alegre;Rio Grande do Sul;RS
+88969292848;11060430;Rua Doutor Manoel Victorino;Santos;São Paulo;SP
+78026538034;24805729;Rua Doze;Itaboraí;Rio de Janeiro;RJ
+53497723718;04334150;Rua Hildebrando Siqueira;São Paulo;São Paulo;SP
+13213235096;88810430;Rua Tereza Pereira Demétrio;Criciúma;Santa Catarina;SC
+03307241664;72856726;Quadra Quadra 726;Luziânia;Goiás;GO
+13633060247;13313212;Rua Paulo Steiner;Itu;São Paulo;SP
+18277579860;83328440;Rua Augusto da Silva;Pinhais;Paraná;PR
+47064687322;41342844;Rua Girassol;Salvador;Bahia;BA
+37570695523;69915288;Rua Cruzeiro do Sul;Rio Branco;Acre;AC
+95336972738;69067160;Rua 12;Manaus;Amazonas;AM
+58595555224;04851430;Rua Cisne Azul;São Paulo;São Paulo;SP
+51414817919;85862585;Rua Geraldo Triedel;Foz do Iguaçu;Paraná;PR
+67648963143;18145037;Rua Leandro de Góes;São Roque;São Paulo;SP
+38727486397;09111720;Rua Pará;Santo André;São Paulo;SP
+59864712632;13848443;Rua Octávio Franco;Mogi Guaçu;São Paulo;SP
+86354502582;60342010;Vila Boa Vista;Fortaleza;Ceará;CE
+06322438759;06351430;Alameda Turqueza;Carapicuíba;São Paulo;SP
+35608816189;13426712;Rua Indiaporã;Piracicaba;São Paulo;SP
+05205839898;19915550;Rua Miguel Durante Sobrinho;Ourinhos;São Paulo;SP
+44073490082;83514150;Rua Frederico Domingos Gulin;Almirante Tamandaré;Paraná;PR
+30911546163;65080170;Rua das Flores;São Luís;Maranhão;MA
+14773788656;36060580;Rua Engenheiro Paulo Correa e Castro;Juiz de Fora;Minas Gerais;MG
+23886359272;85806010;Rua Kamacas;Cascavel;Paraná;PR
+29402434926;69033696;Beco Veneza;Manaus;Amazonas;AM
+11110136226;37030460;Rua Alamiro Augusto Silva;Varginha;Minas Gerais;MG
+93725164040;60821770;Rua Núbia Barrocas;Fortaleza;Ceará;CE
+75467545894;55021460;Avenida Av - 15;Caruaru;Pernambuco;PE
+79426586969;38057712;Rua Ely Pinto da Silva;Uberaba;Minas Gerais;MG
+28441052104;45613820;1ª Travessa Santa Rita;Itabuna;Bahia;BA
+78298487240;41336500;Rua Pousada da Jaqueira;Salvador;Bahia;BA
+97766867111;64006600;Rua Vinícius de Morais;Teresina;Piauí;PI
+12461740438;68020815;Travessa Xingú;Santarém;Pará;PA
+06647658779;07133060;Rua São João do Oriente;Guarulhos;São Paulo;SP
+18357543251;72871101;Rua 101;Valparaíso de Goiás;Goiás;GO
+62963093606;38184518;Rua Águas do Araxá;Araxá;Minas Gerais;MG
+99618594050;78705450;Rua Charafeddine;Rondonópolis;Mato Grosso;MT
+25323695522;29942462;Avenida Barão dos Aymorés;São Mateus;Espírito Santo;ES
+03707110642;88900333;Rua Vitório Manoel Boza;Araranguá;Santa Catarina;SC
+34771652028;07700050;Rua Santo Antonio;Caieiras;São Paulo;SP
+02309635623;41205034;Rua Gregório Santos;Salvador;Bahia;BA
+56041006130;24348010;Praia Itacoatiara;Niterói;Rio de Janeiro;RJ
+73242898225;83035282;Rua Irineu Jarecki Machado;São José dos Pinhais;Paraná;PR
+00948969037;13068233;Rua Papa Santo Estevão;Campinas;São Paulo;SP
+77417589304;78055454;Rua Guiratinga;Cuiabá;Mato Grosso;MT
+91147857706;78550354;Rua das Mélias;Sinop;Mato Grosso;MT
+68658586914;13454005;Rua da Agricultura;Santa Bárbara D'Oeste;São Paulo;SP
+46854118531;58432532;Rua Francisco Alves Reis;Campina Grande;Paraíba;PB
+47514733941;83401180;Rua do Colibri;Colombo;Paraná;PR
+88633550596;08515100;Rua Renato Ribeiro Santana;Ferraz de Vasconcelos;São Paulo;SP
+14436351301;78745080;Rua Interna 14;Rondonópolis;Mato Grosso;MT
+23369194906;08613530;Rua Benedito Leite de Siqueira;Suzano;São Paulo;SP
+99156070455;12954739;Alameda dos Manacás;Atibaia;São Paulo;SP
+17209180562;19902444;Rua Amélia de Jesus Madeira;Ourinhos;São Paulo;SP
+75913478706;51230380;Rua Rio Juruá;Recife;Pernambuco;PE
+56792624529;13058050;Rua Celso Soares Couto;Campinas;São Paulo;SP
+75475221238;12234190;Rua Roberto Baranov;São José dos Campos;São Paulo;SP
+46625173514;83206660;Avenida Ayrton Senna da Silva;Paranaguá;Paraná;PR
+51393331653;13178654;Rua Cinco;Sumaré;São Paulo;SP
+56485124796;32628118;Rua Conceição da Silva Lima;Betim;Minas Gerais;MG
+91519200417;79035530;Rua Muriqui;Campo Grande;Mato Grosso do Sul;MS
+02092381305;77413810;Rua M;Gurupi;Tocantins;TO
+49748406307;55294060;Rua Amadeu Tavares;Garanhuns;Pernambuco;PE
+00571387049;74450380;Rua Almeida Lara;Goiânia;Goiás;GO
+41992007164;72507403;Quadra QR 207 Conjunto C;Brasília;Distrito Federal;DF
+89911841636;23932495;Rua São Vicente;Angra dos Reis;Rio de Janeiro;RJ
+41036641406;02216060;Rua Armando Paim;São Paulo;São Paulo;SP
+65366770014;02932010;Rua Enrico Carafa;São Paulo;São Paulo;SP
+02524999791;67145498;Quadra Um-D;Ananindeua;Pará;PA
+71477516600;94828560;Rua Pedro Américo;Alvorada;Rio Grande do Sul;RS
+95274607729;74910790;Rua EM 37;Aparecida de Goiânia;Goiás;GO

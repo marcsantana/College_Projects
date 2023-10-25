@@ -1,0 +1,62 @@
+import java.util.Scanner;
+
+public class PingPing {
+    private static final Object lock = new Object();
+    private static boolean pingSent = false;
+    private static int totalMessages;
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.print("Digite a quantidade de mensagens que deseja enviar: ");
+        totalMessages = scanner.nextInt();
+        scanner.close();
+
+        Thread pingThread = new Thread(new Ping());
+        Thread pongThread = new Thread(new Pong());
+
+        pingThread.start();
+        pongThread.start();
+    }
+
+    static class Ping implements Runnable {
+        @Override
+        public void run() {
+            synchronized (lock) {
+                try {
+                    for (int i = 1; i <= totalMessages; i++) {
+                        while (pingSent) {
+                            lock.wait();
+                        }
+
+                        System.out.println("Ping: enviei a mensagem " + i);
+                        pingSent = true;
+                        lock.notify();
+                    }
+                } catch (InterruptedException e) {
+                    Thread.currentThread().interrupt();
+                }
+            }
+        }
+    }
+
+    static class Pong implements Runnable {
+        @Override
+        public void run() {
+            synchronized (lock) {
+                try {
+                    for (int i = 1; i <= totalMessages; i++) {
+                        while (!pingSent) {
+                            lock.wait();
+                        }
+
+                        System.out.println("Pong: recebi a mensagem " + i);
+                        pingSent = false;
+                        lock.notify();
+                    }
+                } catch (InterruptedException e) {
+                    Thread.currentThread().interrupt();
+                }
+            }
+        }
+    }
+}

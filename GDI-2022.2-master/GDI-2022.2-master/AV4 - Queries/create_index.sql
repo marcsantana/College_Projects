@@ -1,0 +1,1 @@
+CREATE INDEX usr ON Conta(CPF_USUARIO);

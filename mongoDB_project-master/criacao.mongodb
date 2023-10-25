@@ -1,0 +1,615 @@
+use("esteticaDB");
+
+db.createCollection("servicos");
+
+/* 
+  Cada serviço terá:
+    - Nome
+    - Código
+    - Descrição
+    - Custo Mínimo
+    - Categoria
+*/
+
+db.servicos.insertMany(
+  [
+    {
+      "nome": "Desencravamento de Unha",
+      "codigo": 1,
+      "descricao": "Onicocriptose ou unha encravada é o processo de inflamação causado pela unha que cresce em direção à pele, perfurando-a e provocando uma lesão. Embora possa ocorre em qualquer pessoa e em qualquer idade, ela é mais comum em meninos e homens, dos 10 aos 30 anos. Esse público é mais propenso a praticar esportes que causam traumas nas unhas dos pés.",
+      "custo_minimo": 25.00,
+      "categoria": "Nails"
+    },
+
+    {
+      "nome": "Dermaplaning",
+      "codigo": 2,
+      "descricao": "o dermaplaning nada mais é que a esfoliação superficial do rosto feita com a lâmina de um bisturi. A lâmina do bisturi remove as células mortas (também chamadas de camada córnea) da pele.",
+      "custo_minimo": 60.00,
+      "categoria": "Skin"
+    },
+
+    {
+      "nome": "Limpeza de pele",
+      "codigo": 3,
+      "descricao": "a limpeza de pele tem como objetivo remover os cravos e as impurezas, desobstruir os poros e melhorar a capacidade de absorção da pele.",
+      "custo_minimo": 90.00,
+      "categoria": "Skin"
+    },
+
+    {
+      "nome": "Fotobiomodulação",
+      "codigo": 4,
+      "descricao": "A fotobiomodulação se refere à aplicação de luz a um sistema biológico capaz de induzir um processo fotoquímico, principalmente nas mitocôndrias.",
+      "custo_minimo": 150.00,
+      "categoria": "Skin"
+    },
+
+    {
+      "nome": "Peeling químico",
+      "codigo": 5,
+      "descricao": "O peeling químico é um tipo de tratamento estético que é feito com a aplicação de ácidos sobre a pele para retirar as camadas danificadas e promover o crescimento de uma camada lisa.",
+      "custo_minimo": 65.00,
+      "categoria": "Skin"
+    },
+
+    {
+      "nome": "Corte",
+      "codigo": 6,
+      "descricao": "O Corte de cabelo é o que define o estilo visual dos cabelos e consequentemente, o estilo visual da pessoa.",
+      "custo_minimo": 20.00,
+      "categoria": "Hair"
+    }, 
+
+    {
+      "nome": "Luzes",
+      "codigo": 7,
+      "descricao": "As luzes no cabelo podem ser definidas como uma técnica de clareamento dos fios.",
+      "custo_minimo": 80.00,
+      "categoria": "Hair"
+    },
+
+    {
+      "nome": "Tintura",
+      "codigo": 8,
+      "descricao": "Coloração de cabelo, ou tintura de cabelo, é a prática de mudar a cor dos cabelos.",
+      "custo_minimo": 70.00,
+      "categoria": "Hair"
+    },
+
+    {
+      "nome": "Selagem",
+      "codigo": 9,
+      "descricao": "É um procedimento que fecha as cutículas do cabelo, reduz volume e deixa os fios alinhados. A selagem capilar é uma ótima opção principalmente para quem tem cabelo liso natural e quer diminuir o volume das madeixas.",
+      "custo_minimo": 140.00,
+      "categoria": "Hair"
+    },
+
+    {
+      "nome": "Progressiva",
+      "codigo": 10,
+      "descricao": "A progressiva tem como objetivo o alisamento dos fios, por isso, ela também é identificada como um químico alisante.",
+      "custo_minimo": 250.00,
+      "categoria": "Hair"
+    },
+
+    {
+      "nome": "Mega Hair",
+      "codigo": 11,
+      "descricao": "É o alongamento de cabelo ou extensão de cabelo. Na prática, refere-se a interações de cabelos naturais para aumentar o comprimento e volume ao cabelo de homens e principalmente de mulheres.",
+      "custo_minimo": 250.00,
+      "categoria": "Hair"
+    },
+
+    {
+      "nome": "Tratamento de foliculite",
+      "codigo": 12,
+      "descricao": "A foliculite é uma inflamação dos folículos pilosos, que pode acometer a qualquer um em qualquer momento da vida.",
+      "custo_minimo": 180.00,
+      "categoria": "Hair"
+    },
+
+    {
+      "nome": "Unhas em Gel",
+      "codigo": 13,
+      "descricao": "As unhas de gel são moldes artificiais desenvolvidos para fazer o alongamento, aplicando-os sob as unhas naturais. Feitas de gel UV/LED, requerem uma cabine de luz Ultravioleta para secar e fixar o produto, fazendo com que este endureça mais rápido e acelere o processo.",
+      "custo_minimo": 160.00,
+      "categoria": "Nails"
+    },
+
+    {
+      "nome": "Alongamento de unhas",
+      "codigo": 14,
+      "descricao": "Trata-se de uma camada de gel que é aplicada diretamente na unha. A secagem acontece em cabines de luz ultravioleta e não existe manutenção: a cada 20 dias, é necessário lixar e reaplicar. Depois de três aplicações, o gel é retirado e recolocado, processo que deve acontecer no salão.",
+      "custo_minimo": 90.00,
+      "categoria": "Nails"
+    },
+
+    
+    {
+      "nome": "Unhas em Fibra de vidro",
+      "codigo": 15,
+      "descricao": "O alongamento de unha de fibra de vidro é uma técnica utilizada com filamentos de fibra de vidro que são moldados sobre a unha natural. Diferente da unha de gel, que o molde pronto e desenhado é a principal vertente para alongar as unhas, no alongamento com unhas de fibra de vidro o processo é diferente.",
+      "custo_minimo": 320.00,
+      "categoria": "Nails"
+    },
+
+    
+    {
+      "nome": "Banho de gel",
+      "codigo": 16,
+      "descricao": "O banho de gel é uma cobertura, que pode ser feita com gel ou acrílico, o mesmo material usado no processo de alongar as unhas. Esse gel cria uma barreira fortalecedora que protege as unhas e favorece o crescimento delas desde o momento da aplicação.",
+      "custo_minimo": 60.00,
+      "categoria": "Nails"
+    },
+
+    
+    {
+      "nome": "Esmaltação",
+      "codigo": 17,
+      "descricao": "Esmaltar unhas é um serviço de salão de beleza, que se tornou até mesmo um serviço avulso, pois tem muitas mulheres, que intercalam a esmaltação nas unhas, entre as visitas a profissional manicure.",
+      "custo_minimo": 25.00,
+      "categoria": "Nails"
+    },
+
+    {
+      "nome": "Henna",
+      "codigo": 18,
+      "descricao": "A sobrancelha de henna é uma técnica utilizada para preencher os fios dessa região. Portanto, o procedimento é indicado para pessoas que sofrem com falhas nas sobrancelhas, ou então para quem deseja alterar/aprimorar o design das mesmas, ou apenas dar mais volume para os fios.",
+      "custo_minimo": 140.00,
+      "categoria": "Eyebrows"
+    }, 
+
+    {
+      "nome": "Aplicação de Cílios",
+      "codigo": 19,
+      "descricao": "É um procedimento estético que visa a aumentar o volume de fios, sem a necessidade de utilizar maquiagem (ou cílios postiços). Além disso, ele proporciona, também, o preenchimento de falhas, intensificando o olhar.",
+      "custo_minimo": 90.00,
+      "categoria": "Eyebrows"
+    },
+
+    {
+      "nome": "Micropigmentação",
+      "codigo": 20,
+      "descricao": "A micropigmentação é um procedimento estético que consiste em aplicar uma espécie de tinta na pele dessa região para delinear e corrigir falhas. A técnica imita os fios de sobrancelha, o pigmento é aplicado de forma a imitar um fio normal.",
+      "custo_minimo": 240.00,
+      "categoria": "Eyebrows"
+    },  
+
+    {
+      "nome": "Alongamento",
+      "codigo": 21,
+      "descricao": "É um efeito natural e uniforme feito para dar melhor acabamento à sobrancelha.",
+      "custo_minimo": 180.00,
+      "categoria": "Eyebrows"
+    },
+
+    {
+      "nome": "Make básica",
+      "codigo": 22,
+      "descricao": "Maquiagem mais básica, porém bastante hidratante, para eventos cotidianos e rotineiros",
+      "custo_minimo": 40.00,
+      "categoria": "Make"
+    },
+
+    {
+      "nome": "Make casamento",
+      "codigo": 23,
+      "descricao": "Maquiagem mais produzida e para casamento.",
+      "custo_minimo": 90.00,
+      "categoria": "Make"
+    },
+
+    {
+      "nome": "Make artística",
+      "codigo": 24,
+      "descricao": "Maquiagem mais trabalhada, voltada para eventos mais chamativos.",
+      "custo_minimo": 170.00,
+      "categoria": "Make"
+    },
+
+    {
+      "nome": "Trança nagô",
+      "codigo": 25,
+      "descricao": "As tranças nagô são feitas bem rentes ao couro cabeludo para que fiquem presas, elas podem ser feitas com o cabelo natural ou com cabelo sintético.",
+      "custo_minimo": 80.00,
+      "categoria": "Hair"
+    },
+
+    {
+      "nome": "Depilaçao a laser",
+      "codigo": 26,
+      "descricao": "Depilação a laser é o processo de depilação por meio da exposição a pulsos de luz laser que destroem o folículo piloso.",
+      "custo_minimo": 90.00,
+      "categoria": "Pelos"
+    },
+
+    {
+      "nome": "Cera",
+      "codigo": 27,
+      "descricao": "A cera é um método semi-permanente de depilação que remove os pelos da raiz da pele.",
+      "custo_minimo": 60.00,
+      "categoria": "Pelos"
+    },
+        
+    {
+      "nome": "Depilaçao elétrica",
+      "codigo": 28,
+      "descricao": "Um depilador elétrico é um aparelho utilizado para remoção de pelos do corpo. O processo de depilação através deste aparelho consiste inicialmente no contato do mesmo com a superfície da pele, e em seguida na extração mecânica de vários cabelos simultaneamente utilizando-se discos giratórios.",
+      "custo_minimo": 120.00,
+      "categoria": "Pelos"
+    },
+
+    {
+      "nome": "Depilaçao com linha",
+      "codigo": 29,
+      "descricao": "Depilação com linha é uma técnica de depilação temporária, que consiste em apenas utilizar um fio 100% de algodão. Esse fio é torcido e enrolado com as duas mãos, inserindo a sua extremidade na boca, de forma a provocar pressão no mesmo.",
+      "custo_minimo": 140.00,
+      "categoria": "Pelos"
+    },
+
+    {
+      "nome": "Lâmina",
+      "codigo": 30,
+      "descricao": "A depilação com lâmina pode ser uma ótima forma de eliminar os pelos indesejados, e é a técnica menos dolorosa.",
+      "custo_minimo": 90.00,
+      "categoria": "Pelos"
+    },
+
+  ],
+
+  {
+    ordered: false
+  }
+);
+
+db.createCollection("profissionais");
+
+/* 
+  Cada profissional vai ter:
+    - CPF
+    - Nome
+    - Data de nascimento
+    - Formação
+    - Função
+    - profissional_faz: findOne para o código de um serviço
+
+    Para vincular um profissional a um serviço, iremos realizar uma consulta com o "findOne" buscando pelo código do serviço e o inserindo no array de profissionais que o fazem.
+
+*/
+
+db.profissionais.insertMany(
+  [
+    {
+      cpf: "85510724102",
+      "nome": "Marcelo Santana",
+      data_nascimento: new ISODate("2002-03-02"),
+      formacao: [{
+        "nome": "Técnico em Estética",
+        instituicao: "Instituto Embellezze",
+        data: new ISODate("2020-06-01")
+      }],
+      funcao: "Manicure",
+      profissional_faz: [
+        db.servicos.findOne({"codigo": 01}), 
+        db.servicos.findOne({"codigo": 17})]
+    },
+
+    {
+      cpf: "58742105369",
+      "nome": "Ícaro Geovanny",
+      data_nascimento: new ISODate("2002-05-09"),
+      funcao: "Nail Designer",
+      profissional_faz: [
+        db.servicos.findOne({"codigo": 01}),
+        db.servicos.findOne({"codigo": 13}),
+        db.servicos.findOne({"codigo": 14}),
+        db.servicos.findOne({"codigo": 15}),
+        db.servicos.findOne({"codigo": 16}),
+        db.servicos.findOne({"codigo": 17})
+      ]
+    },
+
+    {
+      cpf: "25848720196",
+      "nome": "Eliab Bernardino",
+      data_nascimento: new ISODate("2001-08-10"),
+      funcao: "Barbeiro",
+      profissional_faz: [
+        db.servicos.findOne({"codigo": 06}),
+        db.servicos.findOne({"codigo": 07}),
+        db.servicos.findOne({"codigo": 25})
+      ]
+    },
+
+    {
+      cpf: "85410269845",
+      "nome": "Tomás Nascimento",
+      data_nascimento: new ISODate("1996-07-12"),
+      formacao: [
+        {
+          "nome": "Bacharel em Estética e Cosmética",
+          instituicao: "Estácio",
+          data: new ISODate("2020-08-17")
+        },
+        {
+          "nome": "Técnico em Estética",
+          instituicao: "Grau Técnico",
+          data: new ISODate("2022-03-12")
+        }
+      ],
+      funcao: "Cabeleireiro",
+      profissional_faz: [
+        db.servicos.findOne({"codigo": 08}),
+        db.servicos.findOne({"codigo": 09}),
+        db.servicos.findOne({"codigo": 10}),
+        db.servicos.findOne({"codigo": 11})
+      ]
+    },
+
+    {
+      cpf: "25147896852",
+      "nome": "João Victor",
+      data_nascimento: new ISODate("2002-02-13"),
+      formacao: [
+        {
+          "nome": "Técnico em Mecânica",
+          instituicao: "IFPE",
+          data: new ISODate("2014-05-26")
+        }
+      ],
+      funcao: "Nail Designer",
+      profissional_faz: [
+        db.servicos.findOne({"codigo": 01}),
+        db.servicos.findOne({"codigo": 13}),
+        db.servicos.findOne({"codigo": 14}),
+        db.servicos.findOne({"codigo": 15}),
+        db.servicos.findOne({"codigo": 16}),
+        db.servicos.findOne({"codigo": 17}),
+        db.servicos.findOne({"codigo": 29})
+      ]
+    },
+
+    {
+      cpf: "52416895702",
+      "nome": "Alice Sales",
+      data_nascimento: new ISODate("1980-12-10"),
+      formacao: [
+        {
+          "nome": "Técnico em Informática",
+          instituicao: "ETE",
+          data: new ISODate("2016-12-27")
+        }
+      ],
+      funcao: "Maquiadora",      
+      profissional_faz: [
+        db.servicos.findOne({"codigo": 19}),
+        db.servicos.findOne({"codigo": 22}),
+        db.servicos.findOne({"codigo": 23}),
+        db.servicos.findOne({"codigo": 24})
+      ]
+    },
+
+    {
+      cpf: "26517840120",
+      "nome": "Victor Luiz",
+      data_nascimento: new ISODate("1978-03-14"),
+      funcao: "Trancista",
+      profissional_faz: [
+        db.servicos.findOne({"codigo": 25})
+      ]
+    },
+
+    {
+      cpf: "10054796623",
+      "nome": "Ernesto Gonçalves",
+      data_nascimento: new ISODate("1992-04-06"),
+      formacao: [
+        {
+          "nome": "Licenciatura em Filosofia",
+          instituicao: "UFPE",
+          data: new ISODate("2019-06-12")
+        }
+      ],
+      funcao: "Depilador",
+      profissional_faz: [
+        db.servicos.findOne({"codigo": 26}),
+        db.servicos.findOne({"codigo": 27}),
+        db.servicos.findOne({"codigo": 28}),
+        db.servicos.findOne({"codigo": 29}),
+        db.servicos.findOne({"codigo": 30})
+      ]
+    },
+
+    {
+      cpf: "69874512385",
+      "nome": "Robson Oliveira",
+      data_nascimento: new ISODate("1956-10-10"),
+      funcao: "Esteticista",
+      profissional_faz: [
+        db.servicos.findOne({"codigo": 02}),
+        db.servicos.findOne({"codigo": 03}),
+        db.servicos.findOne({"codigo": 04}),
+        db.servicos.findOne({"codigo": 05})
+      ]
+    },
+
+    {
+      cpf: "23300015428",
+      "nome": "Fernanda Pascoal",
+      data_nascimento: new ISODate("1998-05-26"),
+      formacao: [
+        {
+          "nome": "Barbeira Profissional",
+          instituicao: "Instituto Mix",
+          data: new ISODate("2013-06-28")
+        }
+      ],
+      funcao: "Barbeira",
+      profissional_faz: [
+        db.servicos.findOne({"codigo": 06}),
+        db.servicos.findOne({"codigo": 07}),
+        db.servicos.findOne({"codigo": 10})
+      ]
+    }
+  ],
+
+  {
+    ordered: false
+  }
+);
+
+/* 
+  Cada salão de beleza vai conter:
+    - CNPJ
+    - Nome
+    - Local
+    - Telefone
+    - Avaliação
+    - Dias de funcionamento
+    - Redes Sociais
+    - Funcionários: findOne pelo CPF de profissionais
+    
+    O atributo Funcionários funciona do mesmo jeito que o profissional_faz da coleção acima. Usando o findOne, vinculamos um profissional a um salão.
+
+*/
+
+db.createCollection("salao");
+
+db.salao.insertMany(
+  [
+    {
+      cnpj: "13295111000114",
+      "nome": "Espaco Ella's",
+      local: "Avenida Estrada do Curado, 114, Jardim São Paulo, Recife - PE",
+      avaliacao: 4.7,
+      dias_funcionamento: ["Segunda-Feira","Terça-Feira", "Quarta-Feira", "Quinta-Feira", "Sexta-Feira"],
+      redes_sociais: {
+        "instagram": "espacoellasjsp",
+        "whatsapp": "(81) 98601-9566"
+      },
+      funcionarios: [
+        db.profissionais.findOne({cpf: "69874512385"}),
+        db.profissionais.findOne({cpf: "23300015428"})
+      ]
+    },
+
+    {
+      cnpj: "36968331000167",
+      "nome": "Trois Beauté",
+      local: "Avenida Conselheiro Aguiar, 3350, Boa Viagem, Recife - PE",
+      avaliacao: 4.5,
+      dias_funcionamento: ["Segunda-Feira","Terça-Feira", "Quarta-Feira", "Quinta-Feira", "Sexta-Feira", "Sábado"],
+      redes_sociais: {
+        "instagram": "troisbeaute",
+        "whatsapp": "(81) 3019-3040",
+        "site": "troisbeaute.com.br"
+      },
+      funcionarios: [
+        db.profissionais.findOne({cpf: "52416895702"}),
+        db.profissionais.findOne({cpf: "10054796623"})
+      ]
+    },
+
+    {
+      cnpj: "09570091000175",
+      "nome": "Karenina's",
+      local: "Rua Coronel Anizío Rodrigues Coelho, 450, Boa Viagem, Recife - PE",
+      avaliacao: 4.8,
+      dias_funcionamento: ["Terça-Feira", "Quarta-Feira", "Quinta-Feira", "Sexta-Feira", "Sábado"],
+      redes_sociais: {
+        "instagram": "kareninascentrodebeleza",
+        "whatsapp": "(81) 99711-8203",
+      },
+      funcionarios: [
+        db.profissionais.findOne({cpf: "26517840120"}),
+        db.profissionais.findOne({cpf: "25147896852"})
+      ]
+    },
+
+    {
+      cnpj: "32151976000151",
+      "nome": "Espaço MC",
+      local: "Rua Francisca Benigna Cavalcante, 336, Mustardinha, Recife - PE",
+      avaliacao: 4.7,
+      dias_funcionamento: ["Segunda-Feira","Terça-Feira", "Quarta-Feira", "Quinta-Feira", "Sexta-Feira", "Sábado"],
+      redes_sociais: {
+        "whatsapp": "(81) 99825-5151",
+        "site": "espaco-mc.negocio.site"
+      },
+      funcionarios: [
+        db.profissionais.findOne({cpf: "85410269845"}),
+        db.profissionais.findOne({cpf: "25147896852"})
+      ]
+    },
+
+    {
+      cnpj: "44665162000114",
+      "nome": "BiiaCabelos",
+      local: "Rua Tamboara, 428, Água Fria, Recife - PE",
+      avaliacao: 5.0,
+      dias_funcionamento: ["Quinta-Feira", "Sexta-Feira", "Sábado"],
+      redes_sociais: {
+        "instagram": "biiacabelos",
+        "whatsapp": "(81) 99703-8699"
+      },
+      funcionarios: [
+        db.profissionais.findOne({cpf: "25848720196"}),
+        db.profissionais.findOne({cpf: "58742105369"})
+      ]
+    },
+
+    {
+      cnpj: "10299564000120",
+      "nome": "L'Adresse Studio de Beleza",
+      local:  "Rua Antônio Falcão, 383 - loja 05, Boa Viagem, Recife - PE",
+      avaliacao: 4.2,
+      dias_funcionamento: ["Segunda-Feira","Terça-Feira", "Quarta-Feira", "Quinta-Feira", "Sexta-Feira", "Sábado", "Domingo"],
+      redes_sociais: {
+        "instagram": "ladressebeleza",
+        "whatsapp": "(81) 99639-0018"
+      },
+      funcionarios: [
+        db.profissionais.findOne({cpf: "85510724102"}),
+        db.profissionais.findOne({cpf: "23300015428"})
+      ]
+
+    },
+
+    {
+      cnpj: "23994314000152",
+      "nome": "Studio Thatá Shinydêr",
+      local: "Rua Gavinha, 232, Brejo da Guabiraba, Recife - PE",
+      avaliacao: 4.8,
+      dias_funcionamento: ["Terça-Feira", "Quarta-Feira", "Quinta-Feira", "Sábado"],
+      redes_sociais: {
+        "whatsapp": "(81) 98633-5283"
+      },
+      funcionarios: [
+        db.profissionais.findOne({cpf: "69874512385"}),
+        db.profissionais.findOne({cpf: "26517840120"})
+      ]
+    },
+
+    {
+
+      cnpj: "08036470000117",
+      "nome": "Gorett's Office Hair",
+      local: "Rua Presidente Kennedy, 2951, Peixinhos, Olinda - PE",
+      avaliacao: 4.5,
+      dias_funcionamento: ["Segunda-Feira","Terça-Feira", "Quarta-Feira", "Quinta-Feira", "Sexta-Feira", "Sábado"],
+      redes_sociais: {
+        "whatsapp": "(81) 3443-6596",
+        "instagram": "layspiresbeauty"
+      },
+      funcionarios: [
+        db.profissionais.findOne({cpf: "85510724102"}),
+        db.profissionais.findOne({cpf: "25147896852"})
+      ]
+    }
+  ],
+
+  {
+    ordered: false
+  }
+);

@@ -1,0 +1,1 @@
+ganhadores_melhor_filme_Oscar = ('Nomadland', 'Parasita', 'Moonlight')

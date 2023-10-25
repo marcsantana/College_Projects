@@ -1,0 +1,96 @@
+use('esteticaDB');
+
+//RENAMECOLLECTION -> a coleção salão será renomeada para salões
+db.salao.renameCollection("saloes");
+
+// $WHERE, FUNCTION, PRETTY -> procura e exibe um profissional com o CPF especificado
+db.profissionais.find({$where: function() {
+      return (this.cpf == "85510724102")
+}}).pretty();
+
+// FIND SORT, PRETTY -> exibe os salões, ordenados pelo norme decrescentemente
+db.saloes.find().sort({"nome": -1}).pretty();
+
+// FIND, COUNT -> exibe a quantidade de salões em que Victor Luiz é funcionário
+db.saloes.find({"funcionarios.nome": "Victor Luiz"});
+
+// FIND, TEXT, SEARCH -> procurando todos os serviços que tem 'Unha' em seu nome
+db.servicos.createIndex({nome: 'text'});
+db.servicos.find({$text: {$search: 'Unha'}}, {_id: 0, nome: 1, descricao: 1, categoria: 1});
+
+// SIZE -> descobre os profissionais que executam 3 serviços
+db.profissionais.find({profissional_faz: {$size: 3}}, {nome: 1, _id: 0});
+
+// PROJECT -> lista o nome e o local dos salões
+db.saloes.aggregate([{$project: {nome: 1, local: 1, _id: 0}}]);
+
+// SUM, GROUP, AGGREGATE -> agrega os valores dos funcionários e conta a quantidade de ocorrência de cada um deles, ou seja, a quantidade de salões que os profissionais trabalham
+db.getCollection('saloes').aggregate([{"$group" : {_id: "$funcionarios", count: {$sum: 1}}}]);
+
+// GROUP, AVG -> busca qual a média de custo mínimo dos serviços feitos por cada profissional
+db.profissionais.aggregate([
+      {$unwind: '$profissional_faz'},
+      {$group: {_id: '$nome', media_custo_minimo: {$avg: '$profissional_faz.custo_minimo'}}}
+]);
+
+// EXISTS -> exibe a quantidade de serviços que não são feitos por nenhum profissional
+db.profissionais.find({profissional_faz: {$exists: false}}).count()
+
+// LIMIT, SORT -> buscando os 4 serviços com custo mínimo mais caro e colocando-os em ordem com base no valor
+db.servicos.find().sort({custo_minimo: -1}).limit(4);
+
+// UPDATE, $SET -> atualizando o whatsapp de um salão
+db.saloes.updateOne({"nome": "Espaco Ella's"}, {$set:{"redes_sociais.whatsapp": '(81) 98601-0019'}})
+
+// PROJECT, FILTER, COND -> busca os profissionais que executam serviços com custo mínimo maior ou igual a 70. Os que só tem serviços com valor anterior vai aparecer com uma lista vazia
+db.profissionais.aggregate([{$project: {nome: 1, _id: 0, profissional_faz : {$filter: {input: "$profissional_faz", as: "servico",cond: {$gte: ["$$servico.custo_minimo", 70]}}}}}]);
+
+// ADDTOSET, FINDONE -> Adicionar mais um profissional ao salão Trois Beauté
+db.getCollection('saloes').updateOne({cnpj: "36968331000167"}, {$addToSet: {funcionarios: db.getCollection('profissionais').findOne({cpf: "69874512385"})}});
+
+// MAPREDUCE, FUNCTION -> exibe o nome do salão como chave e avaliação como valor
+var mapFunction = function(){
+      emit(this.nome, this.avaliacao)
+};
+
+var reduceFunction = function(nome, avaliacao){
+      const rating = avaliacao.reduce((a,b) => a+b, 0);
+      return (nome, rating)
+};
+
+db.saloes.mapReduce(mapFunction, reduceFunction, {out: 'output_mapReduce'});
+
+db.output_mapReduce.find();
+
+// LOOKUP -> exibe os serviços em comum da coleção de "salões" e "profissionais"
+db.servicos.aggregate([
+      {$lookup: {
+              from: "saloes",
+              localField: "nome",
+              foreignField: "funcionarios",
+              as: "servicos_array"}
+      }
+])
+
+// AGGREGATE, GT, MATCH, GROUP, MAX, SORT -> exibe os profissionais e os salões que possuem avaliação > 4.7
+db.saloes.aggregate ([
+      {$match: {avaliacao: {$gt: 4.7}}},
+      {$group: {_id:"$nome", profissionais: {$max: '$funcionarios.nome'}}},
+      {$sort: {'_id': 1}}
+])
+
+// $ALL -> exibe os salões que funcionam de Seg-Sab
+db.saloes.find({dias_funcionamento: {$all: ["Segunda-Feira","Terça-Feira", "Quarta-Feira", "Quinta-Feira", "Sexta-Feira", "Sábado"]}}, {nome: 1, _id: 0});
+
+// SAVE -> insere um novo serviço (essa dá db.collection.save is not a function)
+db.servicos.save({
+      "_id": 100,
+      "nome": "Trança Boxeadora",
+      "codigo": 31,
+      "descricao": "A trança boxeadora, também conhecida como boxer braid, é um penteado feito com duas tranças embutidas, sendo uma de cada lado da cabeça.",
+      "custo_minimo": 120,
+      "categoria": "Hair"
+});
+
+
+

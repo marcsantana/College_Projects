@@ -1,0 +1,64 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&family=Lexend+Deca&display=swap');
+
+/* 
+
+Pequenas telas: até 600px
+Celular: 600px ~ 768px
+Tablet: 768px ~ 992px
+Desktop: 992px ~ 1200px
+Grandes telas: acima de 1200px 
+
+*/
+
+/* Only did one media screen for all screens greater than or equal to 768px */
+
+@media screen and (min-width: 768px) {
+
+      .content-container {
+            display: flex;
+            flex-direction: row;
+            height: 90vh;
+
+            justify-content: center;
+            align-items: center;
+            align-content: center;
+      }
+
+      .content {
+            height: 60%;
+            max-width: 280px;
+      }
+
+      .content img {
+            width: 75px;
+            margin-bottom: 10px;
+      }
+
+      #sedans {
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            border-radius: 10px 0px 0px 10px;
+            
+      }
+
+      #suvs {
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+      }
+
+      #luxury {
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            border-radius: 0px 10px 10px 0px;
+      }
+
+      .description {
+            /* definitely not the best idea to put the button more to bottom */
+            margin: 0px 0px 50px 0px; 
+      }
+}

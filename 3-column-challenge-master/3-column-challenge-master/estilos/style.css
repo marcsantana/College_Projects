@@ -1,0 +1,150 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&family=Lexend+Deca&display=swap');
+
+/* Variables */
+
+:root {
+      /* Colors */
+      --bright-orange: #e38826;
+      --dark-cyan: #006970;
+      --very-dark-cyan: #004241;
+
+      --transparent-white: #ffffffbf;
+      --very-light-gray: #f2f2f2;
+
+      /* Fonts */
+      --font-title: 'Big Shoulders Display', Arial, Helvetica, sans-serif;
+      --font-body: 'Lexend Deca', Arial, Helvetica, sans-serif;
+}
+
+html {
+      font-size: 62.5%;
+}
+body {
+      margin: 0;
+      padding: 0;
+      background-color: var(--very-light-gray);
+}
+
+/* Container with the 3 columns */
+
+.content-container {
+      margin: 30px;
+      height: 97%;
+
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+}
+
+/* Titles */
+
+.title {
+      font-family: var(--font-title);
+      text-transform: uppercase;
+      color: var(--very-light-gray);
+      font-size: 40px;
+      margin: 20px 0px 30px 0px;
+}
+
+/* Paragraph description */
+
+.description {
+      font-family: var(--font-body);
+      color: var(--transparent-white);
+      font-size: 20px;
+      line-height: 1.6;
+      margin-bottom: 35px;
+}
+
+/* Button */
+
+.button {
+      background-color: var(--very-light-gray);
+      border-radius: 30px;
+      border: none;
+      font-size: 20px;
+      width: 180px;
+      padding: 20px;
+      cursor: pointer;
+}
+
+/* Sedans configs */
+
+#sedans {
+      background-color: var(--bright-orange);
+      padding: 45px;
+      border-radius: 10px 10px 0 0;
+      height: calc(33.33%-30px);
+}
+
+#button-sedans {
+      color: var(--bright-orange);
+}
+
+#button-sedans:hover {
+      transition: 200ms;
+      background-color: rgba(255, 255, 255, 0.884);
+      color: #f5840cbb;
+}
+
+/* SUVs configs */
+
+#suvs {
+      background-color: var(--dark-cyan);
+      padding: 45px;
+      height: calc(33.33%-30px);
+}
+
+#button-suvs {
+      color: var(--dark-cyan);
+}
+
+#button-suvs:hover {
+      transition: 200ms;
+      background-color: rgba(255, 255, 255, 0.884);
+      color: #0068706c;
+}
+
+/* Luxury configs */
+
+#luxury {
+      background-color: var(--very-dark-cyan);
+      border-radius: 0px 0px 10px 10px;
+      padding: 45px;
+      height: calc(33.33%-30px);
+}
+
+#button-luxury {
+      color: var(--very-dark-cyan);
+}
+
+#button-luxury:hover {
+      transition: 200ms;
+      background-color: rgba(255, 255, 255, 0.884);
+      color: #0029287e;
+}
+
+/* Footer */
+
+footer {
+      text-align: center;
+      margin: 12px 6px;
+      height: 3%;
+      font-family: var(--font-body);
+}
+
+footer a {
+      text-decoration: none;
+      color: black;
+}
+
+footer a:hover {
+      font-weight: bold;
+      font-size: 17px;
+}
+
+footer a:visited {
+      color: black;
+}

@@ -1,0 +1,253 @@
+"Bohemian Rhapsody"; 1975; Rock
+"Stairway to Heaven"; 1971; Rock
+"Hotel California"; 1977; Rock
+"Imagine"; 1971; Pop
+"Sweet Child O' Mine"; 1987; Rock
+"Billie Jean"; 1982; Pop
+"Like a Rolling Stone"; 1965; Rock
+"Smells Like Teen Spirit"; 1991; Rock
+"Yesterday"; 1965; Pop
+"Good Vibrations"; 1966; Pop
+"Purple Haze"; 1967; Rock
+"Hey Jude"; 1968; Pop
+"I Will Always Love You"; 1992; Pop
+"Let It Be"; 1970; Pop
+"All Along the Watchtower"; 1968; Rock
+"Livin' on a Prayer"; 1986; Rock
+"Johnny B. Goode"; 1958; Rock
+"Another Brick in the Wall (Part II)"; 1979; Rock
+"My Heart Will Go On"; 1997; Pop
+"Don't Stop Believin'"; 1981; Rock
+"Layla"; 1970; Rock
+"Dancing Queen"; 1976; Pop
+"Born to Run"; 1975; Rock
+"I Want to Hold Your Hand"; 1963; Pop
+"Tears in Heaven"; 1992; Rock
+"Wonderwall"; 1995; Rock
+"Bridge Over Troubled Water"; 1970; Pop
+"Boys Don't Cry"; 1979; Punk Rock
+"Every Breath You Take"; 1983; Pop
+"Sweet Home Alabama"; 1974; Rock
+"Under Pressure"; 1981; Rock
+"Jump"; 1984; Rock
+"Kiss"; 1986; Pop
+"Brown Eyed Girl"; 1967; Pop
+"Satisfaction"; 1965; Rock
+"Every Rose Has Its Thorn"; 1988; Rock
+"The Twist"; 1960; Rock and Roll
+"Thriller"; 1982; Pop
+"What's Going On"; 1971; Soul
+"I Will Survive"; 1978; Disco
+"Superstition"; 1972; Funk
+"Don't You Want Me"; 1981; Pop
+"Yesterday Once More"; 1973; Pop
+"I Shot the Sheriff"; 1973; Reggae
+"Sweet Dreams (Are Made of This)"; 1983; New Wave
+"Ironic"; 1996; Pop
+"Back in Black"; 1980; Rock
+"Imagine"; 1975; Rock
+"Wind of Change"; 1990; Rock
+"I Want It That Way"; 1999; Pop
+"Take on Me"; 1985; New Wave
+"The Message"; 1982; Hip-Hop
+"Nothing Compares 2 U"; 1990; Pop
+"Walk This Way"; 1975; Rock
+"Tainted Love"; 1981; Synthpop
+Garota de Ipanema; 1963; Bossa Nova
+Aquarela do Brasil; 1939; Samba
+Carinhoso; 1937; Choro
+Chega de Saudade; 1958; Bossa Nova
+Eu sei que vou te amar; 1959; Bossa Nova
+Tico-Tico no Fubá; 1917; Choro
+Asa Branca; 1947; Baião
+Brasileirinho; 1947; Choro
+Águas de Março; 1972; MPB
+O bêbado e a equilibrista; 1979; MPB
+Construção; 1971; MPB
+Alegria, Alegria; 1967; Tropicalismo
+Foi um Rio que Passou em Minha Vida; 1970; Samba
+Ainda é cedo; 1985; Rock
+Trem das Onze; 1964; Samba
+A Rosa; 1957; Samba-Canção
+Disparada; 1966; MPB
+Wave; 1967; Bossa Nova
+Chão de Giz; 1978; MPB
+Flor de Lis; 1972; MPB
+O que é, o que é?; 1976; MPB
+Palco; 1984; MPB
+Canto de Ossanha; 1965; Samba
+Bandolins; 1996; MPB
+Saudades da Bahia; 1957; Bossa Nova
+Apesar de Você; 1970; MPB
+Vai Passar; 1982; MPB
+Samba de Orly; 1970; MPB
+Desafinado; 1959; Bossa Nova
+Águas de Julho; 2000; MPB
+Linha de Passe; 1983; MPB
+Coqueiro Verde; 1964; Samba-Canção
+Quem te Viu, Quem te Vê; 1965; MPB
+A rua onde ela morava; 1975; MPB
+O Mestre-Sala dos Mares; 1974; MPB
+Eu Só Quero um Xodó; 1973; Forró
+Cálice; 1973; MPB
+Trem das Cores; 1993; MPB
+O Leãozinho; 1977; MPB
+Saigon; 1978; MPB
+A Festa; 1996; Axé
+Cotidiano; 1971; MPB
+Ciranda da Rosa Vermelha; 1980; MPB
+Que nem Jiló; 1950; Baião
+As Rosas Não Falam; 1979; Samba-Canção
+Maria, Maria; 1978; MPB
+Acorda amor; 1976; MPB
+Nação; 1997; MPB
+O Xote das Meninas; 1973
+Cry Me a River; 1955; Jazz
+Lose You To Love Me; 2019; Pop
+Purple Rain; 1984; Rock
+Unchained Melody; 1955; Pop
+Baby One More Time; 1998; Pop
+No Scrubs; 1999; R&B
+Ain't No Sunshine; 1971; Soul
+I Will Always Love You; 1992; Pop
+The Chain; 1977; Rock
+Yesterday; 1965; Pop
+Can't Stop the Feeling!; 2016; Pop
+Sucker; 2019; Pop
+Sweet Dreams (Are Made of This); 1983; New Wave
+All I Want for Christmas Is You; 1994; Christmas
+Just the Way You Are; 1977; Pop
+It's Gonna Be Me; 2000; Pop
+Eye of the Tiger; 1982; Rock
+Superstition; 1972; Funk
+Back In Black; 1980; Hard rock
+You Are The Best Thing; 2008; Soul
+Believe; 1998; Dance-Pop
+Happy; 2013; Pop
+In the End; 2000; Rock
+Poker Face; 2008; Dance-Pop
+Let It Go; 2013; Soundtrack
+You Give Love a Bad Name; 1986; Rock
+I Want To Hold Your Hand; 1963; Pop
+You've Got a Friend; 1971; Pop
+Go Your Own Way; 1976; Rock
+Watermelon Sugar; 2019; Pop
+Hey Jude; 1968; Pop
+Killing in the Name; 1992; Alternative rock
+When Doves Cry; 1984; Funk
+Wrecking Ball; 2013; Pop
+The Show Must Go On; 1991; Rock
+November Rain; 1991; Rock
+Blinding Lights; 2019; Synth-pop
+Sugar, We're Goin Down; 2005; Pop punk
+Take on Me; 1984; New wave
+Clocks; 2002; Alternative rock
+The Weight; 1968; Rock
+Livin' on a Prayer; 1986; Rock
+Nothing Compares 2 U; 1990; Pop
+Ironic; 1995; Alternative rock
+Roar; 2013; Pop
+Take Me to Church; 2013; Indie rock
+Can't Hold Us; 2011; Hip hop
+Crazy; 2006; Gnarls Barkley
+Yesterday Once More; 1973; Pop
+American Pie; 1971; Pop
+Rockstar; 2017; Hip hop
+Sweet Child o' Mine; 1987; Rock
+Without Me; 2002; Hip hop
+Free Bird; 1973; Southern rock
+I Don't Want to Miss a Thing; 1998; Rock
+The Way You Make Me Feel; 1987; Pop
+Despacito;2017;Reggaeton
+La Camisa Negra;2005;Latin Pop
+Waka Waka (This Time for Africa);2010;Afro Pop
+La Bicicleta;2016;Reggaeton
+La Tortura;2005;Latin Pop
+Felices los 4;2017;Reggaeton
+A Dios le Pido;2002;Latin Pop
+Vivir Mi Vida;2013;Salsa
+Bailando;2014;Latin Pop
+Me Gusta;2020;Reggaeton
+El Perdón;2015;Reggaeton
+Corazón Espinado;1999;Latin Rock
+Si Tú No Vuelves;1999;Latin Pop
+La Copa de la Vida;1998;Latin Pop
+El Anillo;2018;Reggaeton
+Color Esperanza;2001;Latin Pop
+Gasolina;2004;Reggaeton
+La Gozadera;2015;Salsa
+El Mismo Sol;2015;Pop
+Te Busqué;2006;Latin Pop
+Ayer;2009;Reggaeton
+La Planta;1998;Reggaeton
+Lamento Boliviano;1992;Latin Pop
+Rompe;2005;Reggaeton
+La Vida Es un Carnaval;1998;Salsa
+Bulería;2004;Flamenco Pop
+La Mordidita;2015;Reggaeton
+Taboo;2011;Latin Pop
+Adiós;2014;Latin Pop
+Oye Como Va;1963;Latin Rock
+Hasta la Raíz;2015;Latin Pop
+Historia de un Amor;1955;Bolero
+Ella y Yo;2005;Bachata
+Sabor a Mi;1959;Bolero
+La Playa;1999;Latin Pop
+Si Tú No Estás;2005;Latin Pop
+La Flaca;1996;Latin Pop
+Baila Baila Baila;2019;Reggaeton
+La Bamba;1958;Mexican Folk
+Vivir Sin Aire;1995;Latin Pop
+Cuando Me Enamoro;2010;Latin Pop
+La Vida Tombola;1998;Latin Pop
+De Música Ligera;1990;Rock
+La Quiero a Morir;1979;Latin Pop
+Hasta Que Salga el Sol;2012;Reggaeton
+Besos Mojados;2006;Latin Pop
+Tusa;2019;Reggaeton
+Malamente;2018;Flamenco Pop
+Atrévete-te-te;2004;Latin Hip Hop
+Sólo le Pido a Dios;1973;Folklore
+La Modelo;2018;Reggaeton
+Inolvidable;2017;Reggaeton
+Guantanamera;1966;Latin Pop
+Con Altura;2019;Reggaeton
+La Bamba; 1958; Rock and Roll
+Cielito Lindo; 1882; Ranchera
+Besame Mucho; 1940; Bolero
+México Lindo y Querido; 1943; Mariachi
+Jarabe Tapatío; 1921; Folklore
+Amor Eterno; 1984; Ranchera
+El Rey; 1971; Ranchera
+Si Nos Dejan; 1985; Bolero
+La Bikina; 1979; Huapango
+La Malagueña; 1946; Mariachi
+La Llorona; 1992; Folklore
+El Son de la Negra; 1940; Mariachi
+Cucurrucucú Paloma; 1954; Bolero
+Sabor a Mí; 1959; Bolero
+Cuando Calienta el Sol; 1961; Pop
+La Adelita; 1910; Ranchera
+La Carcacha; 1992; Cumbia
+La Chona; 1995; Cumbia
+Huapango de Moncayo; 1941; Classical
+La Cucaracha; 1910; Mariachi
+La Sandunga; 1963; Folklore
+El Pastor; 1976; Ballad
+La Banda del Carro Rojo; 1982; Banda
+El Sinaloense; 1928; Banda
+Las Mañanitas; 1896; Ranchera
+La Feria de las Flores; 1965; Banda
+Por un Amor; 1944; Ranchera
+La Martina; 1940; Ranchera
+El Corrido de Chihuahua; 1925; Corrido
+México en la Piel; 2004; Ranchera
+La Puerta Negra; 1993; Norteño
+El Tren de la Vida; 1996; Norteño
+El Mariachi Loco; 1992; Mariachi
+La Camisa Negra; 2004; Rock en Español
+El Noa Noa; 1978; Pop
+La Muerte del Palomo; 1976; Ballad
+La Raza Contenta; 1967; Huapango
+La Malinche; 1960; Folklore
+La Bamba Rebelde; 1999; Rock en Español

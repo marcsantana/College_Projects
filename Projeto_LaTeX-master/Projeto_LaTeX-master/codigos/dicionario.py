@@ -1,0 +1,1 @@
+ganhadores_oscar_19 = {'Melhor Filme': 'Green Book: O guia', 'Melhor Ator': 'Rami Malek', 'Melhor Atriz': 'Olivia Colman'}

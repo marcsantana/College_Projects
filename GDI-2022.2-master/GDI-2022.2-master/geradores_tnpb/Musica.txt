@@ -1,0 +1,249 @@
+"Bohemian Rhapsody";11933711323; Rock; 1975
+"Stairway to Heaven";28985245384; Rock; 1971
+"Hotel California";87576772107; Rock; 1977
+"Imagine";00688210921; Pop; 1971
+"Sweet Child O' Mine";45834228275; Rock; 1987
+"Billie Jean";31512176304; Pop; 1982
+"Like a Rolling Stone";07490143775; Rock; 1965
+"Smells Like Teen Spirit";31302725870; Rock; 1991
+"Yesterday";43360296222; Pop; 1965
+"Good Vibrations";06407352317; Pop; 1966
+"Purple Haze";96149314206; Rock; 1967
+"Hey Jude";00502858810; Pop; 1968
+"I Will Always Love You";73684692788; Pop; 1992
+"Let It Be";89675937915; Pop; 1970
+"All Along the Watchtower";31489743582; Rock; 1968
+"Livin' on a Prayer";66276468196; Rock; 1986
+"Johnny B. Goode";74997421242; Rock; 1958
+"Another Brick in the Wall (Part II)";68997598308; Rock; 1979
+"My Heart Will Go On";97949080032; Pop; 1997
+"Don't Stop Believin'";27403615452; Rock; 1981
+"Layla";69311478526; Rock; 1970
+"Dancing Queen";54546773381; Pop; 1976
+"Born to Run";08635392399; Rock; 1975
+"I Want to Hold Your Hand";92172501517; Pop; 1963
+"Tears in Heaven";65696181865; Rock; 1992
+"Wonderwall";41029113826; Rock; 1995
+"Bridge Over Troubled Water";06225107228; Pop; 1970
+"Boys Don't Cry";86982144631; Punk Rock; 1979
+"Every Breath You Take";60742934388; Pop; 1983
+"Sweet Home Alabama";71283694211; Rock; 1974
+"Under Pressure";79230976919; Rock; 1981
+"Jump";63598483456; Rock; 1984
+"Kiss";63190103143; Pop; 1986
+"Brown Eyed Girl";64756709651; Pop; 1967
+"Satisfaction";91261450184; Rock; 1965
+"Every Rose Has Its Thorn";48856144342; Rock; 1988
+"The Twist";31115639803; Rock and Roll; 1960
+"Thriller";53497723718; Pop; 1982
+"What's Going On";57825635979; Soul; 1971
+"I Will Survive";96098941391; Disco; 1978
+"Superstition";61728517097; Funk; 1972
+"Don't You Want Me";24788455216; Pop; 1981
+"Yesterday Once More";96714225053; Pop; 1973
+"I Shot the Sheriff";77392746180; Reggae; 1973
+"Sweet Dreams (Are Made of This)";61456345614; New Wave; 1983
+"Ironic";19525995072; Pop; 1996
+"Back in Black";01894798962; Rock; 1980
+"Imagine";21039777725; Rock; 1975
+"Wind of Change";10299526887; Rock; 1990
+"I Want It That Way";96199134111; Pop; 1999
+"Take on Me";54078977693; New Wave; 1985
+"The Message";83875317847; Hip-Hop; 1982
+"Nothing Compares 2 U";81490055172; Pop; 1990
+"Walk This Way";77000720631; Rock; 1975
+"Tainted Love";84430163678; Synthpop; 1981
+Garota de Ipanema;87053204049; Bossa Nova; 1963
+Aquarela do Brasil;24023975936; Samba; 1939
+Carinhoso;29412456532; Choro; 1937
+Chega de Saudade;79426586969; Bossa Nova; 1958
+Eu sei que vou te amar;02523071912; Bossa Nova; 1959
+Tico-Tico no Fubá;62554025758; Choro; 1917
+Asa Branca;96843800079; Baião; 1947
+Brasileirinho;76482652484; Choro; 1947
+Águas de Março;06901334367; MPB; 1972
+O bêbado e a equilibrista;28687861754; MPB; 1979
+Construção;71886876340; MPB; 1971
+Alegria, Alegria;96664382010; Tropicalismo; 1967
+Foi um Rio que Passou em Minha Vida;41018068532; Samba; 1970
+Ainda é cedo;58713450754; Rock; 1985
+Trem das Onze;61824488801; Samba; 1964
+A Rosa;26111368173; Samba-Canção; 1957
+Disparada;02961090212; MPB; 1966
+Wave;00273766566; Bossa Nova; 1967
+Chão de Giz;82670699585; MPB; 1978
+Flor de Lis;95818319035; MPB; 1972
+O que é, o que é?;68871950571; MPB; 1976
+Palco;22081915325; MPB; 1984
+Canto de Ossanha;59211034060; Samba; 1965
+Bandolins;96435450713; MPB; 1996
+Saudades da Bahia;38383003934; Bossa Nova; 1957
+Apesar de Você;08653043363; MPB; 1970
+Vai Passar;45122841236; MPB; 1982
+Samba de Orly;63545492518; MPB; 1970
+Desafinado;51414817919; Bossa Nova; 1959
+Águas de Julho;35574719011; MPB; 2000
+Linha de Passe;40691082332; MPB; 1983
+Coqueiro Verde;01465248656; Samba-Canção; 1964
+Quem te Viu, Quem te Vê;08212614292; MPB; 1965
+A rua onde ela morava;05999067182; MPB; 1975
+O Mestre-Sala dos Mares;44073490082; MPB; 1974
+Eu Só Quero um Xodó;23322056046; Forró; 1973
+Cálice;17075488099; MPB; 1973
+Trem das Cores;89996151752; MPB; 1993
+O Leãozinho;76712499105; MPB; 1977
+Saigon;35608816189; MPB; 1978
+A Festa;79218969465; Axé; 1996
+Cotidiano;56835083758; MPB; 1971
+Ciranda da Rosa Vermelha;22030490147; MPB; 1980
+Que nem Jiló;41674003961; Baião; 1950
+As Rosas Não Falam;38750451972; Samba-Canção; 1979
+Maria, Maria;77580897766; MPB; 1978
+Acorda amor;44679789103; MPB; 1976
+Nação;72309186607; MPB; 1997
+Cry Me a River;07433202181; Jazz; 1955
+Lose You To Love Me;40418863135; Pop; 2019
+Purple Rain;73741157664; Rock; 1984
+Unchained Melody;90922630049; Pop; 1955
+Baby One More Time;41356937554; Pop; 1998
+No Scrubs;35895949542; R&B; 1999
+Ain't No Sunshine;25323695522; Soul; 1971
+I Will Always Love You;24670487913; Pop; 1992
+The Chain;78448171884; Rock; 1977
+Yesterday;54191287276; Pop; 1965
+Can't Stop the Feeling!;11788843914; Pop; 2016
+Sucker;80514561973; Pop; 2019
+Sweet Dreams (Are Made of This);44225901649; New Wave; 1983
+All I Want for Christmas Is You;65227894777; Christmas; 1994
+Just the Way You Are;27243984824; Pop; 1977
+It's Gonna Be Me;74374626170; Pop; 2000
+Eye of the Tiger;26989223395; Rock; 1982
+Superstition;12848722171; Funk; 1972
+Back In Black;30194508265; Hard rock; 1980
+You Are The Best Thing;13557260193; Soul; 2008
+Believe;01636043568; Dance-Pop; 1998
+Happy;14124968791; Pop; 2013
+In the End;98729115783; Rock; 2000
+Poker Face;11131234712; Dance-Pop; 2008
+Let It Go;08385664497; Soundtrack; 2013
+You Give Love a Bad Name;36059757835; Rock; 1986
+I Want To Hold Your Hand;82091694888; Pop; 1963
+You've Got a Friend;59148571578; Pop; 1971
+Go Your Own Way;01060622850; Rock; 1976
+Watermelon Sugar;47172495053; Pop; 2019
+Hey Jude;16047394488; Pop; 1968
+Killing in the Name;30301849753; Alternative rock; 1992
+When Doves Cry;44584040158; Funk; 1984
+Wrecking Ball;21294013643; Pop; 2013
+The Show Must Go On;90413697143; Rock; 1991
+November Rain;17400527049; Rock; 1991
+Blinding Lights;56665732788; Synth-pop; 2019
+Sugar, We're Goin Down;26691389030; Pop punk; 2005
+Take on Me;23488163341; New wave; 1984
+Clocks;95336972738; Alternative rock; 2002
+The Weight;40815098225; Rock; 1968
+Livin' on a Prayer;05531068888; Rock; 1986
+Nothing Compares 2 U;10569973933; Pop; 1990
+Ironic;07425275639; Alternative rock; 1995
+Roar;69462766948; Pop; 2013
+Take Me to Church;96022746567; Indie rock; 2013
+Can't Hold Us;33477623309; Hip hop; 2011
+Crazy;70026625978; Gnarls Barkley; 2006
+Yesterday Once More;40099341183; Pop; 1973
+American Pie;66795964790; Pop; 1971
+Rockstar;32252677507; Hip hop; 2017
+Sweet Child o' Mine;05743440723; Rock; 1987
+Without Me;49380143755; Hip hop; 2002
+Free Bird;02070383547; Southern rock; 1973
+I Don't Want to Miss a Thing;30791136040; Rock; 1998
+The Way You Make Me Feel;97766867111; Pop; 1987
+Despacito;36354295078;Reggaeton;2017
+La Camisa Negra;97753636154;Latin Pop;2005
+Waka Waka (This Time for Africa);92399597127;Afro Pop;2010
+La Bicicleta;56562296842;Reggaeton;2016
+La Tortura;03132895254;Latin Pop;2005
+Felices los 4;39237911855;Reggaeton;2017
+A Dios le Pido;88969292848;Latin Pop;2002
+Vivir Mi Vida;16539945341;Salsa;2013
+Bailando;98828768465;Latin Pop;2014
+Me Gusta;16709466887;Reggaeton;2020
+El Perdón;88633550596;Reggaeton;2015
+Corazón Espinado;70513537969;Latin Rock;1999
+Si Tú No Vuelves;83121863487;Latin Pop;1999
+La Copa de la Vida;20642528549;Latin Pop;1998
+El Anillo;30361049753;Reggaeton;2018
+Color Esperanza;38498792086;Latin Pop;2001
+Gasolina;85079700855;Reggaeton;2004
+La Gozadera;47463224784;Salsa;2015
+El Mismo Sol;06587883301;Pop;2015
+Te Busqué;98318874725;Latin Pop;2006
+Ayer;52034369532;Reggaeton;2009
+La Planta;61042770499;Reggaeton;1998
+Lamento Boliviano;62290691200;Latin Pop;1992
+Rompe;28290054161;Reggaeton;2005
+La Vida Es un Carnaval;87085075564;Salsa;1998
+Bulería;92231093986;Flamenco Pop;2004
+La Mordidita;46394439260;Reggaeton;2015
+Taboo;28074822036;Latin Pop;2011
+Adiós;74328384932;Latin Pop;2014
+Oye Como Va;26560700193;Latin Rock;1963
+Hasta la Raíz;68380538463;Latin Pop;2015
+Historia de un Amor;60308378231;Bolero;1955
+Ella y Yo;29719345826;Bachata;2005
+Sabor a Mi;75475221238;Bolero;1959
+La Playa;23434770185;Latin Pop;1999
+Si Tú No Estás;27934112470;Latin Pop;2005
+La Flaca;82270898634;Latin Pop;1996
+Baila Baila Baila;21214296094;Reggaeton;2019
+La Bamba;51287374754;Mexican Folk;1958
+Vivir Sin Aire;48629190946;Latin Pop;1995
+Cuando Me Enamoro;92501203799;Latin Pop;2010
+La Vida Tombola;33718090596;Latin Pop;1998
+De Música Ligera;66928302932;Rock;1990
+La Quiero a Morir;75913478706;Latin Pop;1979
+Hasta Que Salga el Sol;61533482803;Reggaeton;2012
+Besos Mojados;24319726030;Latin Pop;2006
+Tusa;87039829262;Reggaeton;2019
+Malamente;49450689517;Flamenco Pop;2018
+Atrévete-te-te;39996166054;Latin Hip Hop;2004
+Sólo le Pido a Dios;38342330653;Folklore;1973
+La Modelo;22705607992;Reggaeton;2018
+Inolvidable;60853942127;Reggaeton;2017
+Guantanamera;63481109437;Latin Pop;1966
+Con Altura;98262325236;Reggaeton;2019
+La Bamba;18481639913; Rock and Roll; 1958
+Cielito Lindo;53597017717; Ranchera; 1882
+Besame Mucho;43511904696; Bolero; 1940
+México Lindo y Querido;27064242433; Mariachi; 1943
+Jarabe Tapatío;66728920561; Folklore; 1921
+Amor Eterno;63749427979; Ranchera; 1984
+El Rey;89737603871; Ranchera; 1971
+Si Nos Dejan;83672784837; Bolero; 1985
+La Bikina;30220513969; Huapango; 1979
+La Malagueña;80859271910; Mariachi; 1946
+La Llorona;33692405191; Folklore; 1992
+El Son de la Negra;14092127011; Mariachi; 1940
+Cucurrucucú Paloma;71820632303; Bolero; 1954
+Sabor a Mí;03333090861; Bolero; 1959
+Cuando Calienta el Sol;38432935332; Pop; 1961
+La Adelita;82351024593; Ranchera; 1910
+La Carcacha;96848162895; Cumbia; 1992
+La Chona;47297963317; Cumbia; 1995
+Huapango de Moncayo;35973639894; Classical; 1941
+La Cucaracha;53681368001; Mariachi; 1910
+La Sandunga;18956035269; Folklore; 1963
+El Pastor;48130566236; Ballad; 1976
+La Banda del Carro Rojo;80732349955; Banda; 1982
+El Sinaloense;23369194906; Banda; 1928
+Las Mañanitas;89899162301; Ranchera; 1896
+La Feria de las Flores;88191923371; Banda; 1965
+Por un Amor;38754606796; Ranchera; 1944
+La Martina;02694558566; Ranchera; 1940
+El Corrido de Chihuahua;87342812947; Corrido; 1925
+México en la Piel;67054404227; Ranchera; 2004
+La Puerta Negra;94856517802; Norteño; 1993
+El Tren de la Vida;16124382569; Norteño; 1996
+El Mariachi Loco;39291515944; Mariachi; 1992
+La Camisa Negra;12602294118; Rock en Español; 2004
+El Noa Noa;64064523079; Pop; 1978
+La Muerte del Palomo;18967298811; Ballad; 1976

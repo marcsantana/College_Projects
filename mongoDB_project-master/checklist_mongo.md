@@ -1,0 +1,35 @@
+# Checklist
+
+- [x] USE
+- [x] FIND
+- [x] SIZE
+- [x] AGGREGATE
+- [x] MATCH
+- [x] PROJECT
+- [x] GTE
+- [x] GROUP
+- [x] SUM
+- [x] COUNT
+- [x] AVG
+- [x] MAX
+- [x] EXISTS
+- [x] SORT
+- [x] LIMIT
+- [x] $WHERE
+- [x] MAPREDUCE
+- [x] FUNCTION
+- [x] PRETTY
+- [x] ALL
+- [x] SET
+- [x] TEXT
+- [x] SEARCH
+- [x] FILTER
+- [x] UPDATE
+- [x] SAVE
+- [x] RENAMECOLLECTION
+- [x] COND
+- [x] LOOKUP
+- [x] FINDONE
+- [x] ADDTOSET
+- [x] descomentar renameCollection
+- [x] adicionar descrição em criacao.mongodb

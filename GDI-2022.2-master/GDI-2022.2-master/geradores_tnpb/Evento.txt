@@ -1,0 +1,250 @@
+3147029365,"Rua das Flores, 123",01/07/2001,1,Coachella
+1861675145,"Rua do Sol, 456",6/11/1991,61,Lollapalooza
+5366456927,"Rua do Passeio, 789",15/07/2000,67,Glastonbury
+1088647523,"Rua das Árvores, 987",20/02/2000,11,Bonnaroo
+2096747915,"Rua do Jardim, 654",05/02/1972,20,Burning Man
+3193816107,"Rua da Praia, 321",16/09/1980,22,Austin City Limits
+8471435271,"Rua da Liberdade, 789",15/06/1980,44,Rock in Rio
+8600874147,"Rua da Fonte, 567",05/03/2001,18,Tomorrowland
+4256551416,"Rua da Glória, 234",6/7/2011,62,Ultra Music Festival
+2600369035,"Rua da Esperança, 890",11/5/2008,92,Electric Daisy Carnival
+7489001615,"Rua da Paz, 1234",31/10/2001,33,Reading and Leeds Festival
+2381199984,"Rua da Alegria, 5678",11/04/2006,67,Roskilde Festival
+1173110116,"Rua da Felicidade, 9876",09/12/1983,69,Sziget Festival
+8685541735,"Rua do Amor, 345",17/12/1988,23,Primavera Sound
+8798706361,"Rua do Campo, 678",15/04/1985,1,South by Southwest (SXSW)
+6888456465,"Rua da Harmonia, 9012",30/03/1993,93,Montreux Jazz Festival
+6930575831,"Rua da Saudade, 3456",01/06/2017,83,Download Festival
+2757589826,"Rua do Progresso, 7890",30/5/2005,57,Fuji Rock Festival
+9434341526,"Rua da Vida, 4321",14/04/2013,84,Wireless Festival
+4088629406,"Rua da Cidade, 8765",30/03/1989,45,Pitchfork Music Festival
+6513634266,"Rua da Beleza, 219",10/01/1974,84,Rock am Ring and Rock im Park
+4160723646,"Rua da União, 438",18/8/1979,93,Electric Zoo
+9279533786,"Rua da Virtude, 657",11/12/2014,20,Outside Lands
+6456211916,"Rua da Paixão, 876",29/02/1972,17,Osheaga Festival
+2489714232,"Rua da Inspiração, 987",20/07/2010,46,The Governors Ball Music Festival
+5227608323,"Rua da Integração, 876",22/07/1977,33,The Great Escape
+2831109026,"Rua da Igualdade, 765",20/02/1992,75,Way Out West
+5611007281,"Rua da Solidariedade, 654",23/10/1986,40,New Orleans Jazz and Heritage Festival
+9858825661,"Rua da Liberdade, 543",29/05/2011,93,Sasquatch! Music Festival
+2245461908,"Rua da Tolerância, 432",18/09/2002,19,Electric Forest
+5868747852,"Rua da Justiça, 321",04/04/1978,95,Melt Festival
+6378310282,"Rua do Comércio, 210",18/11/1988,76,Mysteryland
+1632246859,"Rua do Trabalho, 198",28/09/2007,82,Shambhala Music Festival
+7079000542,"Rua do Progresso, 876",26/06/1996,71,Creamfields
+2762900481,"Rua da Inovação, 765",28/06/1980,29,Rock Werchter
+5853248608,"Rua da Modernidade, 654",30/09/2014,52,Lowlands
+6844512154,"Rua da Tecnologia, 543",24/10/1972,89,Hurricane and Southside Festival
+5142850114,"Rua da Cultura, 432",18/09/1990,41,Best Kept Secret Festival
+6877462374,"Rua da Criatividade, 321",16/08/2019,4,Benicassim Festival
+7522250814,"Rua da Educação, 210",28/09/2009,40,Exit Festival
+6923383547,"Rua da História, 1987",29/05/2009,54,Lovebox Festival
+5690448597,"Rua do Futuro, 7654",09/11/1984,55,Latitude Festival
+4298289101,"Rua da Natureza, 4321",25/8/1992,68,Isle of Wight Festival
+4697088327,"Rua da Sustentabilidade, 1098",28/08/1981,76,V Festival
+8991672094,"Rua do Saber, 765",17/09/2000,41,Splendour in the Grass
+3366696857,"Rua da Imaginação, 543",02/09/2015,37,WOMAD
+3219711676,"Rua da Ciência, 321",02/03/2005,30,NOS Alive
+3636301587,"Rua da Comunicação, 210",31/03/1981,12,Pukkelpop
+9272093726,"Rua da Consciência, 198",4/9/1980,56,Rock en Seine
+5361009137,"Rua do Conhecimento, 5432",17/07/1973,46,Parklife Festival
+2399070497,"Rua da Saúde, 1098",7/10/1982,92,Rocklahoma
+6710631207,"Rua da Energia, 7654",01/09/1981,48,Moogfest
+8363032621,"Rua da Física, 4321",12/08/2000,44,Osheaga Music and Arts Festival
+7573097567,"Rua da Química, 3210",16/12/1990,87,Beale Street Music Festival
+1761482817,"Rua da Biologia, 6543",15/11/1986,85,BottleRock Napa Valley
+7319920392,"Rua da Matemática, 2198",16/07/1981,17,Firefly Music Festival
+5681141433,"Rua da Geografia, 4387",26/09/2008,40,Hangout Music Festival
+1680443737,"Rua da História, 6574",28/5/1995,51,Governor's Ball Music Festival
+4171245617,"Rua da Filosofia, 8765",20/02/1979,22,Afropunk Festival
+3327989529,"Rua da Psicologia, 9876",30/06/1979,68,Made in America Festival
+2959015234,"Rua da Sociologia, 7654",09/04/2021,18,Riot Fest
+1011468524,"Rua da Antropologia, 6543",19/05/1974,18,Desert Trip
+3315638402,"Rua da Arqueologia,",29/11/1971,59,80/35 Music Festival
+8562346889,"Avenida das Flores, 123",08/03/1998,24,Open'er Festival
+8467192208,"Avenida do Sol, 456",21/01/1989,57,Positivus Festival
+9561621812,"Avenida do Passeio, 789",03/07/1999,76,CMA Music Festival
+6828571141,"Avenida das Árvores, 321",30/8/1975,37,Essence Music Festival
+7721093859,"Avenida do Jardim, 654",02/03/1975,5,Farm Aid
+7653251337,"Avenida da Praia, 987",14/7/2013,24,Stagecoach Festival
+5031731147,"Avenida da Liberdade, 456",20/02/1992,68,Big Ears Festival
+9879325671,"Avenida da Fonte, 321",01/08/2009,85,Okeechobee Music & Arts Festival
+9297696469,"Avenida da Glória, 654",22/09/2010,65,Mountain Jam
+7584652097,"Avenida da Esperança, 789",08/02/2009,33,Gentlemen of the Road Stopover
+3771587274,"Avenida da Paz, 123",22/04/1977,94,Euphoria Music Festival
+8313942835,"Avenida da Alegria, 456",21/04/1978,57,The Fest
+1836812089,"Avenida da Felicidade, 789",12/12/1996,28,Knotfest
+8360770367,"Avenida do Amor, 321",25/10/1980,23,Bumbershoot
+7932164747,"Avenida do Campo, 654",08/07/2021,83,Hopscotch Music Festival
+4670156166,"Avenida da Harmonia, 987",30/08/2018,94,Sloss Music & Arts Festival
+1195239336,"Avenida da Saudade, 123",26/10/2020,70,Made in America Festival (UK)
+8335105467,"Avenida do Progresso, 456",07/09/2012,84,Nuart Festival
+8707256397,"Avenida dos Girassóis, 789",30/08/2005,11,Folk Alliance International Conference
+5645326970,"Avenida do Céu, 321",10/04/1994,59,Iceland Airwaves
+1187456677,"Avenida da Fortuna, 654",14/08/2001,52,Festiwal Malta
+2905760083,"Avenida das Violetas, 987",19/04/2022,4,Ruhrtriennale
+6871771703,"Avenida da Justiça, 123",16/03/1984,96,MEO Sudoeste
+4725703158,"Avenida do Mar, 456",13/05/1994,15,Festival Internacional de Benicassim
+7786892469,"Avenida do Horizonte, 789",29/08/1979,90,Festival Internacional de Música de Cambrils
+2210518438,"Avenida da Esperança, 321",02/08/1996,34,Arenal Sound
+1295123657,"Avenida do Castelo, 654",27/01/2001,24,Rock Fest Barcelona
+6764686868,"Avenida da Vitória, 987",09/12/1993,37,Viña Rock
+4433436589,"Avenida do Paraíso, 123",23/01/2010,86,Granada Sound
+2548706418,"Avenida dos Pinheiros, 456",21/03/2015,68,O Son do Camiño
+8469470056,"Avenida da Cidade, 789",01/05/1986,75,Download Festival Madrid
+9976206921,"Avenida das Estrelas, 321",22/08/2017,85,Bilbao BBK Live
+4438363948,"Avenida do Progresso, 654",10/05/1972,73,Mad Cool Festival
+7405066792,"Avenida do Futuro, 987",03/07/1982,42,FIB Benicàssim
+4568336572,"Avenida do Oceano, 123",03/09/1996,65,BBF Barcelona Beach Festival
+7600026021,"Avenida do Poder, 456",09/02/1992,80,Festival Cruïlla
+4317451558,"Avenida do Conhecimento, 789",03/06/2016,16,Festival Internacional de Jazz de Vitoria-Gasteiz
+4990642203,"Avenida das Rosas, 321",15/08/2020,64,Azkena Rock Festival
+7177375573,"Avenida do Tempo, 654",06/03/1998,73,Madri+d Music Fest
+7147469025,"Avenida da Sabedoria, 987",17/05/1974,53,Monegros Desert Festival
+8193554015,"Avenida do Comércio, 123",24/08/1995,6,Medusa Sunbeach Festival
+2111221324,"Avenida do Trabalho, 456",24/09/2014,55,Dreambeach Villaricos
+7426449464,"Avenida da União, 789",30/12/2010,74,Rototom Sunsplash
+1448329285,"Avenida do Saber, 321",18/07/1994,18,Leyendas
+3121038618,"Avenida do Sucesso, 654",29/06/1976,24,Coachella
+7058887075,"Avenida do Vento, 987",24/07/2021,90,Lollapalooza
+1482285865,"Avenida do Bem, 123",25/01/2001,55,Glastonbury
+9832098496,"Avenida da Vida, 456",06/11/1992,26,Bonnaroo
+5933155816,"Avenida da Razão, 789",04/07/2007,36,Burning Man
+4422270526,"Avenida dos Sonhos, 321",13/03/1983,16,Austin City Limits
+9196927026,"Avenida da Verdade, 654",16/09/1998,34,Rock in Rio
+2725297743,"Avenida da Coragem, 987",14/12/2015,5,Tomorrowland
+9659883863,"Avenida do Encontro, 123",08/07/1991,9,Ultra Music Festival
+4394321554,"Avenida do Destino, 456",15/09/1985,62,Electric Daisy Carnival
+7472448624,"Avenida da Amizade, 789",20/02/1972,3,Reading and Leeds Festival
+3474076876,"Avenida da Imaginação, 321",26/05/1975,20,Roskilde Festival
+2070760226,"Avenida do Silêncio, 654",18/05/1996,69,Sziget Festival
+4717725083,"Avenida da Compaixão, 987",10/11/2016,55,Primavera Sound
+7576481796,"Avenida da Natureza, 123",22/12/2004,65,South by Southwest (SXSW)
+9042160036,"Avenida da Paixão, 456",03/06/2009,7,Montreux Jazz Festival
+3062022236,"Avenida da Graça, 789",09/09/1986,78,Download Festival
+7768261686,"Avenida do Infinito, 321",21/08/1994,54,Fuji Rock Festival
+4871805666,"Avenida do Sorriso, 654",10/10/1978,50,Wireless Festival
+4096407671,"Avenida da Generosidade, 987",15/04/1979,55,Pitchfork Music Festival
+7642107908,"Avenida da Solidariedade, 123",28/05/1991,43,Rock am Ring and Rock im Park
+1777982013,"Main St, 123",16/06/2017,67,Electric Zoo
+7033375368,"Oak Ave, 456",30/09/1993,95,Outside Lands
+2035798217,"Elm St, 789",07/03/1986,19,Osheaga Festival
+2898488248,"Maple Rd, 321",02/10/1982,12,The Governors Ball Music Festival
+6923020412,"Pine St, 654",01/10/2000,81,The Great Escape
+5378685401,"Cedar Ave, 987",31/02/1972,37,Way Out West
+6798173114,"Walnut St, 456",04/03/1976,62,New Orleans Jazz and Heritage Festival
+9613351261,"Birch Rd, 321",04/06/2020,62,Sasquatch! Music Festival
+7719453189,"Poplar Ave, 654",06/07/2002,60,Electric Forest
+4967895288,"Ash St, 789",09/12/2019,6,Melt Festival
+2115558471,"Cherry Rd, 123",25/06/1984,80,Mysteryland
+2689265056,"Spruce Ave, 456",02/12/2008,18,Shambhala Music Festival
+6985001416,"Willow St, 789",01/08/1974,95,Creamfields
+1687122464,"Laurel Rd, 321",05/05/2008,29,Rock Werchter
+5376189554,"Holly Ave, 654",19/10/1998,34,Lowlands
+8240581562,"Magnolia St, 987",17/11/2001,76,Hurricane and Southside Festival
+4058945651,"Vine Rd, 123",19/12/2015,33,Best Kept Secret Festival
+4393710431,"Dogwood Ave, 456",31/01/1988,26,Benicassim Festival
+7582456032,"Rose St, 789",19/02/1998,81,Exit Festival
+7551314806,"Juniper Rd, 321",10/07/2022,44,Lovebox Festival
+7036942038,"Cedar St, 654",14/11/1982,93,Latitude Festival
+6869909877,"Sycamore Ave, 987",18/08/2005,61,Isle of Wight Festival
+5504669928,"Oak St, 123",11/06/2001,66,V Festival
+2734109147,"Pine Ave, 456",18/06/2004,65,Splendour in the Grass
+1713050147,"Maple St, 789",29/02/2003,66,WOMAD
+3295140707,"Cypress Rd, 321",19/02/2019,42,NOS Alive
+4814787758,"Elm St, 654",28/02/1980,28,Pukkelpop
+7849441307,"Birch Ave, 987",31/07/2020,7,Rock en Seine
+2849663928,"Willow St, 123",18/01/2006,36,Parklife Festival
+1375708787,"Ash Rd, 456",14/10/2009,20,Rocklahoma
+9630117298,"Poplar Ave, 789",08/10/2007,23,Moogfest
+3069251177,"Cherry St, 321",29/08/1992,89,Osheaga Music and Arts Festival
+2634208248,"Spruce Ave, 654",22/08/2008,72,Beale Street Music Festival
+8189493237,"Laurel Rd, 987",01/02/1980,45,BottleRock Napa Valley
+6625670588,"Holly St, 123",02/03/1979,5,Firefly Music Festival
+6470788487,"Magnolia Ave, 456",26/05/2010,16,Hangout Music Festival
+2814514358,"Vine Rd, 789",01/05/1989,68,Governor's Ball Music Festival
+9061262992,"Dogwood Ave, 321",03/11/1981,14,Afropunk Festival
+4544609338,"Rose St, 654",24/10/2003,76,Made in America Festival
+2865503507,"Juniper Rd, 987",17/10/1995,87,Riot Fest
+9687733108,"Cedar St, 123",08/05/2021,11,Desert Trip
+1483544417,"Sycamore Rd, 456",13/11/1991,70,80/35 Music Festival
+1701161118,"Oak St, 789",17/08/1985,75,Open'er Festival
+5127858393,"Pine Rd, 321",12/11/1982,13,Positivus Festival
+6607846543,"Maple St, 654",29/03/1999,2,CMA Music Festival
+4784026155,"Cypress Ave, 987",28/09/1982,1,Essence Music Festival
+1014725345,"Elm St, 123",27/09/2019,1,Farm Aid
+1802594875,"Birch Rd, 456",25/05/1983,92,Stagecoach Festival
+5225791635,"Willow Ave, 789",13/05/2016,90,Big Ears Festival
+9869210674,"Ash St, 321",28/06/2008,83,Okeechobee Music & Arts Festival
+3474342148,"Poplar Rd, 654",30/09/2014,27,Mountain Jam
+2587767192,"Cherry Ave, 987",09/01/2019,39,Gentlemen of the Road Stopover
+9271079968,"Spruce St, 123",07/07/2011,86,Euphoria Music Festival
+4527559452,"Laurel Rd, 456",07/12/2001,87,The Fest
+1691013898,"Holly Ave, 789",18/12/1977,94,Knotfest
+4722199241,"Magnolia St, 321",27/10/2004,77,Bumbershoot
+7148329159,"Vine Ave, 654",07/02/2013,52,Hopscotch Music Festival
+5570981875,"Dogwood St, 987",31/05/1975,87,Sloss Music & Arts Festival
+3037296742,"Rose Rd, 123",05/07/1974,57,Made in America Festival (UK)
+7673940181,"Juniper Ave, 456",04/07/1977,52,Nuart Festival
+8329467015,"Cedar St, 789",31/11/2019,33,Folk Alliance International Conference
+5154271098,"Sycamore Rd, 321",21/01/2006,43,Iceland Airwaves
+2241098567,"Oak Ave, 654",27/01/1982,80,Festiwal Malta
+1978435260,"Pine St, 987",29/1/2005,18,Ruhrtriennale
+8157209346,"Maple Rd, 123",14/11/1972,87,MEO Sudoeste
+3926751480,"Cypress Ave, 456",13/07/2005,39,Festival Internacional de Benicassim
+9853104276,"Elm St, 789",09/08/2012,10,Festival Internacional de Música de Cambrils
+7108642395,"Birch Ave, 321",27/12/1983,87,Arenal Sound
+5608749321,"Willow Rd, 654",05/11/2014,7,Rock Fest Barcelona
+1498562037,"Ash St, 987",01/07/2007,62,Viña Rock
+6893572401,"Poplar Ave, 123",19/06/2009,85,Granada Sound
+4261980537,"Cherry Rd, 456",19/07/1978,76,O Son do Camiño
+7459062183,"Spruce St, 789",04/04/2009,76,Download Festival Madrid
+2367084159,"Laurel Ave, 321",29/10/2007,13,Bilbao BBK Live
+2984107653,"Holly St, 654",16/02/2007,80,Mad Cool Festival
+9401753286,"Magnolia Rd, 987",08/11/2007,50,FIB Benicàssim
+1372985046,"Vine Ave, 123",20/10/2001,14,BBF Barcelona Beach Festival
+8235749061,"Dogwood St, 456",28/12/1991,46,Festival Cruïlla
+6708129345,"Rose Ave, 789",03/06/2007,4,Festival Internacional de Jazz de Vitoria-Gasteiz
+4058712963,"Juniper Rd, 321",05/12/1989,96,Azkena Rock Festival
+1293874650,"Cedar St, 654",23/08/1985,23,Madri+d Music Fest
+8179456320,"Sycamore Rd, 987",25/03/1998,43,Monegros Desert Festival
+6538127904,"Oak St, 123",11/6/1991,66,Medusa Sunbeach Festival
+9106724835,"Pine Rd, 456",09/03/2000,25,Dreambeach Villaricos
+3689574210,"Maple St, 789",31/02/2013,19,Rototom Sunsplash
+2746810395,"Cypress Ave, 321",02/08/2019,49,Leyendas
+4608129357,"Elm Rd, 654",17/07/1992,72,Coachella
+8703196245,"Birch Ave, 987",28/11/2020,43,Lollapalooza
+5918623047,"Willow St, 123",03/07/2013,95,Glastonbury
+8621409753,"Ash Rd, 456",27/05/2005,76,Bonnaroo
+1423986057,"Elmwood Ave, 123",04/10/2017,52,Burning Man
+6502189347,"Ridge Ave, 456",07/02/1987,29,Austin City Limits
+1397420586,"Laurel Ave, 789",03/11/2017,33,Rock in Rio
+7203948165,"Forest Ave, 321",11/12/1991,18,Tomorrowland
+4819352670,"Hillcrest Ave, 654",01/04/2018,54,Ultra Music Festival
+9523704186,"Sunset Ave, 987",14/08/2001,65,Electric Daisy Carnival
+1087569234,"Maple Ave, 456",01/01/1981,64,Reading and Leeds Festival
+4897152063,"Pine Ave, 321",03/10/1991,34,Roskilde Festival
+1357904286,"Oakwood Ave, 654",19/09/2016,87,Sziget Festival
+6872095314,"Cedar Ave, 789",07/10/1983,90,Primavera Sound
+8194607325,"Ashland Ave, 123",28/02/2009,1,South by Southwest (SXSW)
+2715390864,"Chestnut Ave, 456",22/01/2002,29,Montreux Jazz Festival
+4730985621,"Walnut Ave, 789",15/08/1975,14,Download Festival
+5204978136,"Birchwood Ave, 321",31/07/1997,6,Fuji Rock Festival
+6342971508,"Willow Ave, 654",22/07/1989,17,Wireless Festival
+2906431857,"Cedarwood Ave, 987",13/02/1996,14,Pitchfork Music Festival
+5470319268,"Juniper Ave, 123",12/09/2004,21,Rock am Ring and Rock im Park
+3951764820,"Pinecrest Ave, 456",29/12/1990,45,Electric Zoo
+2670891435,"Cherrywood Ave, 789",25/10/1984,19,Outside Lands
+9780156243,"Hawthorne Ave, 321",26/04/2021,18,Osheaga Festival
+8352041967,"Sycamore Ave, 654",31/04/1991,71,The Governors Ball Music Festival
+6491038275,"Elmcrest Ave, 987",24/05/2001,27,The Great Escape
+9017453862,"Redwood Ave, 123",09/10/1983,41,Way Out West
+2870134569,"Maplewood Ave, 456",04/02/1973,57,New Orleans Jazz and Heritage Festival
+7081463295,"Oakcrest Ave, 789",19/05/1985,82,Sasquatch! Music Festival
+3169582047,"Spruce Ave, 321",10/02/2002,71,Electric Forest
+5290471368,"Cedarcrest Ave, 654",08/05/2008,5,Melt Festival
+9876053214,"Birch Ave, 987",31/01/1994,1,Mysteryland
+3691504827,"Willowcrest Ave, 123",18/03/2001,15,Shambhala Music Festival
+1824567390,"Ashwood Ave, 456",18/01/2013,53,Creamfields
+6501832479,"Poplar Ave, 789",01/09/2008,80,Rock Werchter
+5427109868,"Cherry Ave, 321",21/05/2001,75,Lowlands
